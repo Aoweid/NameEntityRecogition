@@ -1,0 +1,80 @@
+Page:1
+Box: [0, 370, 740, 610] Words: [Brow", 3‘, Brow”, Of, New, Y°rk, Inc, 517, W, er, 5””, Jamestown, NY, 14701—4305, ’] Ratio: 0.11792857142857142
+Box: [0, 1660, 740, 1900] Words: [Sincerely., Northwest, Bank, Insurance, Department] Ratio: 0.09042857142857143
+Box: [0, 1720, 740, 1960] Words: [Northwest, Bank, Insurance, Department] Ratio: 0.06989285714285715
+Box: [0, 1850, 740, 2090] Words: [Letter, ID:, MBNOR, Agent, Letter, 59396299] Ratio: 0.07196428571428572
+Box: [490, 100, 1230, 340] Words: [PdC3F21FF1VVTEES1', SAVINGS, BANK, Where, People, Make, The, Difference.] Ratio: 0.3698214285714286
+Box: [670, 440, 1410, 680] Words: [Insured, Name:, JAMES, R, CHRISTENSEN, P, I', N, b, 5135445H, °, '°.y, ”m, e", Carrier:, NGM, Insurance, Company, Expiration, Date:, 07/01/2016, Insurance, Type(s):, Hazard, Insurance] Ratio: 0.24435
+Box: [670, 460, 1410, 700] Words: [Insured, Name:, P, I', N, b, 5135445H, °, '°.y, ”m, e", Carrier:, NGM, Insurance, Company, Expiration, Date:, 07/01/2016, Insurance, Type(s):, Hazard, Insurance] Ratio: 0.24435
+Box: [730, 1740, 1470, 1980] Words: [RECEIVED, WNasmm, BROWN, ﬂ, BRO, Jamuimn, WN] Ratio: 0.20780714285714286
+Box: [70, 1070, 910, 1310] Words: [This, invoice, must;, utilize, the, mortgagee, clause, listed, below, 0, include, the, policy, number, 0, provide, coverage, dates, 0, indicate, amount, due, and, due, date, ., indicate, the, insurance, company, payee, name, and, address] Ratio: 0.29728125
+Page:2
+Box: [0, 220, 740, 460] Words: [AGENCY] Ratio: 0.01755
+Box: [0, 400, 740, 640] Words: [] Ratio: 0.01755
+Box: [30, 1540, 770, 1780] Words: [2, I, -8, 61, AT, ON, 1, M, 6, R] Ratio: 0.03566428571428571
+Box: [30, 1610, 770, 1850] Words: [DER, SECTION, I,, D:, 2, I, -8, 61, AT, ON, 1, M, 6, R] Ratio: 0.07612142857142858
+Box: [30, 1710, 770, 1950] Words: [DER, SECTION, I,, D:] Ratio: 0.04045714285714286
+Box: [90, 1710, 830, 1950] Words: [DER, SECTION, I,, WE, D:] Ratio: 0.04600714285714286
+Box: [210, 1710, 950, 1950] Words: [DER, SECTION, I,, WE, COVER, D:] Ratio: 0.061778571428571426
+Box: [250, 550, 990, 790] Words: [s, COVERED, BY, THIS, POLICY, 5505000524, EMISE, AMESTOWN;, NY, 14701-7640, PR, J] Ratio: 0.1868857142857143
+Box: [250, 990, 990, 1230] Words: [3, R, F., H, T, 0, 0, YT, Y, T, ST, IS, ER, LT, HKHEL, TAHN, UP, EBE, To, GAM, CREAIY] Ratio: 0.10815714285714285
+Box: [310, 550, 1050, 790] Words: [s, COVERED, BY, THIS, POLICY, IS, 5505000524, EMISE, AMESTOWN;, NY, 14701-7640, PR, J] Ratio: 0.1919857142857143
+Box: [390, 320, 1130, 560] Words: [NAMED] Ratio: 0.01577142857142857
+Box: [550, 220, 1290, 460] Words: [NAMED, INSURED, POLICYHOLDER, SINCE] Ratio: 0.08742142857142857
+Box: [550, 320, 1290, 560] Words: [NAMED, INSURED] Ratio: 0.03762142857142857
+Box: [690, 1810, 1430, 2050] Words: [NS, GRP-B;L, B'I, -, 1, -198, ,, 'TERR, 6, (04-91), 61-8527, (06-06), L, 0] Ratio: 0.13854285714285713
+Box: [710, 1010, 1450, 1250] Words: [.31?, E, AL, N, E, RN, RD, US, ruR, CE, OD., ”H, run», AA, EE] Ratio: 0.06811428571428571
+Box: [710, 1090, 1450, 1330] Words: [”H, run», AA, EE] Ratio: 0.06811428571428571
+Box: [750, 340, 1490, 580] Words: [147017640, NAMED, INSURED] Ratio: 0.06342142857142857
+Box: [850, 690, 1590, 930] Words: [3605028400, LN, #, INGS, BANK, PA, 16365, WARREN;] Ratio: 0.10532857142857142
+Box: [850, 1090, 1590, 1330] Words: [., ., ”H, run», AA, EE] Ratio: 0.08662857142857143
+Box: [970, 470, 1710, 710] Words: [147017640, IS, LOCATED, AT] Ratio: 0.059321428571428574
+Box: [970, 570, 1710, 810] Words: [3605028400, LN, #, INGS, BANK, IS, LOCATED, AT] Ratio: 0.09585714285714286
+Box: [0, 1910, 840, 2150] Words: [AGENT, SEE, REVERSE, FOR, ADDITIONAL, INFORMATION, 05-27-2016, 61—7953, (4/02), DATE, PROCESSED] Ratio: 0.11699375
+Box: [310, 990, 1150, 1230] Words: [”H, run», AA, EE, 3, R, F., H, T, 0, 0, YT, Y, T, ST, IS, ER, LT, HKHEL, TAHN, UP, EBE, To, GAM, CREAIY] Ratio: 0.11348125
+Box: [570, 1010, 1410, 1250] Words: [.31?, E, AL, N, E, RN, RD, US, ruR, CE, OD., ”H, run», AA, EE, 3, R, F., H, T, 0] Ratio: 0.07206875
+Box: [570, 1090, 1410, 1330] Words: [”H, run», AA, EE, 3, R, F., H, T, 0] Ratio: 0.07206875
+Box: [770, 220, 1610, 460] Words: [07-01-2008, NAMED, INSURED, POLICYHOLDER, SINCE] Ratio: 0.10438125
+Page:3
+Box: [0, 220, 740, 460] Words: [AGENCY] Ratio: 0.01755
+Box: [0, 350, 740, 590] Words: [AGENCY, 311478, 716, 484, 1173, BROWN, &, BROWN, OF, NY/JAMESTONN, 517, W, FIFTH, STREET, STE, 1, JAMESTOWN;, NY, 14701] Ratio: 0.24614285714285714
+Box: [0, 400, 740, 640] Words: [311478, 716, 484, 1173, BROWN, &, BROWN, OF, NY/JAMESTONN, 517, W, FIFTH, STREET, STE, 1, JAMESTOWN;, NY, 14701] Ratio: 0.24614285714285714
+Box: [0, 570, 740, 810] Words: [MORTGAGEE, NO., 3, NONE] Ratio: 0.05109285714285714
+Box: [0, 1790, 740, 2030] Words: [JAMESTOWN] Ratio: 0.02625
+Box: [20, 0, 760, 240] Words: [Olé, 2:2WM, n., 3., 2, Brown, &, Brown, NGM, INSURANCE, COMPANY, 55, WEST, STREET, KEENE, NEW, HAMPSHIRE, 03431] Ratio: 0.24179285714285714
+Box: [230, 570, 970, 810] Words: [NO., 3, NONE] Ratio: 0.02217857142857143
+Box: [310, 570, 1050, 810] Words: [3, NONE] Ratio: 0.0138
+Box: [350, 570, 1090, 810] Words: [NONE] Ratio: 0.0114
+Box: [360, 1780, 1100, 2020] Words: [FIRE, DIST] Ratio: 0.0228
+Box: [550, 220, 1290, 460] Words: [POLICYHOLDER, SINCE, NAMED, INSURED] Ratio: 0.08553571428571428
+Box: [590, 690, 1330, 930] Words: [CONTINUED] Ratio: 0.028914285714285715
+Box: [750, 350, 1490, 590] Words: [NAMED, INSURED, JAMES, R, CHRISTENSEN, SANDRA, CHRISTENSEN, 9, WESTWOOD, DR, JAMESTOWN;, NY, 147017640] Ratio: 0.2368
+Box: [750, 440, 1490, 680] Words: [JAMES, R, CHRISTENSEN, SANDRA, CHRISTENSEN, 9, WESTWOOD, DR, JAMESTOWN;, NY, 147017640] Ratio: 0.20245
+Box: [910, 740, 1650, 980] Words: [60-7195, (02-14), 61-K261, (12-15)] Ratio: 0.08312142857142857
+Box: [770, 220, 1610, 460] Words: [POLICYHOLDER, SINCE, 07-01-2008, NAMED, INSURED] Ratio: 0.1004375
+Page:4
+Box: [0, 1580, 740, 1820] Words: [Main, Group, PO, Box, 2004, Keene,, NH, 03431-3373] Ratio: 0.14649285714285715
+Box: [0, 1640, 740, 1880] Words: [Box, Keene,, NH, 03431-3373] Ratio: 0.07747142857142857
+Box: [20, 0, 760, 240] Words: [Jun., 3., 20%, 2:2IPM, Brown, &, Brown] Ratio: 0.07529285714285715
+Box: [140, 1350, 880, 1590] Words: [Checks, should, be, made, payable, to, "MSA, Group.", Mail, payments, to, the, following, address:] Ratio: 0.207
+Box: [140, 1410, 880, 1650] Words: [Checks, should, be, made, payable, to, "MSA, Group.", Mail, payments, to, the, following, address:, The, Main, Street, America, Group] Ratio: 0.2760214285714286
+Box: [200, 0, 940, 240] Words: [3., 20%, 2:2IPM, Brown, &, Brown, insurance] Ratio: 0.09187857142857143
+Box: [200, 660, 940, 900] Words: [9, Westwood, Dr, Insured, Addres“, Jamestown,, NY, Insured, Phone, Number:, (, ), -, Account, Number:, MTGB5445H] Ratio: 0.22249285714285713
+Box: [250, 0, 990, 240] Words: [20%, 2:2IPM, Brown, &, Brown, insurance] Ratio: 0.08835714285714286
+Box: [340, 0, 1080, 240] Words: [2:2IPM, Brown, &, Brown, insurance] Ratio: 0.07613571428571428
+Box: [470, 0, 1210, 240] Words: [Brown, &, Brown, insurance] Ratio: 0.05707857142857143
+Box: [530, 660, 1270, 900] Words: [9, Westwood, Dr, Jamestown,, NY, 14701, USA, (, ), -, MTGB5445H] Ratio: 0.12675
+Box: [560, 760, 1300, 1000] Words: [(, ), -, MTGB5445H, ACTIVE-PAID, TO, DATE] Ratio: 0.09412142857142858
+Box: [560, 770, 1300, 1010] Words: [-, MTGB5445H, ACTIVE-PAID, TO, DATE] Ratio: 0.09412142857142858
+Box: [580, 440, 1320, 680] Words: [BROWN, &, BROWN, OF, NY/JAMESTOWN, 311478, James, R, Christensen, Sandra, ChristenSen] Ratio: 0.19876428571428573
+Box: [900, 0, 1640, 240] Words: [No.720l, P., 4] Ratio: 0.027114285714285716
+Box: [920, 660, 1660, 900] Words: [14701, USA] Ratio: 0.022014285714285715
+Box: [80, 0, 920, 240] Words: [Jun., 3., 20%, 2:2IPM, Brown, &, Brown, insurance] Ratio: 0.0886625
+Box: [150, 950, 990, 1190] Words: [Mini, Amount, Due', $0.00,    ,  ,    ,  ,  ,  , Account, Balance:, $509.00,  ,   ] Ratio: 0.37988125
+Box: [150, 1000, 990, 1240] Words: [Mini, Amount, Due', $0.00,    ,  ,    ,  ,  ,  , Account, Balance:, $509.00,  ,   ,  ] Ratio: 0.33113125
+Box: [150, 1010, 990, 1250] Words: [Mini, Amount, Due',    ,  ,    ,  ,  ,  , Account, Balance:, $509.00,  ,   ,  ] Ratio: 0.33113125
+Box: [200, 660, 1040, 900] Words: [9, Westwood, Dr, Insured, Addres“, Jamestown,, NY, 14701, Insured, Phone, Number:, (, ), -, Account, Number:, MTGB5445H] Ratio: 0.20503125
+Box: [310, 80, 1150, 320] Words: [THE, MAIN, STREET, AMERICA, GROUP] Ratio: 0.1551
+Box: [310, 170, 1150, 410] Words: [THE, MAIN, STREET, AMERICA, GROUP, Account, Summary, Statement, _, Account, informatioh, E_0f05f03/2010] Ratio: 0.24145
+Box: [610, 0, 1450, 240] Words: [&, Brown, insurance, No.720l] Ratio: 0.056475
+Box: [740, 0, 1580, 240] Words: [insurance, No.720l, P., 4] Ratio: 0.04650625

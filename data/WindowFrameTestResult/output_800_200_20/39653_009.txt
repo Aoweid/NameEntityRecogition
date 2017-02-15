@@ -1,0 +1,9 @@
+Box: [10, 0, 850, 240] Words: [017140, Received, Fri, Jun, 03,, 2016, AMERICAN, FAMILY, INSURANCE, 1900, LATHROP, AVE, RACINE, WI, 53405-3707] Ratio: 0.29095625
+Box: [10, 10, 850, 250] Words: [017140, Fri, Jun, 03,, 2016, AMERICAN, FAMILY, INSURANCE, 1900, LATHROP, AVE, RACINE, WI, 53405-3707] Ratio: 0.29095625
+Box: [100, 2080, 940, 2320] Words: [', Your, American, Family, Agent, is., TIMOTHY, FiAASCH, -.1900, LATHROP, AVE, ‘, -, _, RACINE, WI, 53405-, 3707] Ratio: 0.50146875
+Box: [170, 0, 1010, 240] Words: [Received, Fri, Jun, 03,, 2016, AMERICAN, FAMILY, INSURANCE, 1900, LATHROP, AVE, RACINE, WI, 53405-3707] Ratio: 0.26885
+Box: [170, 10, 1010, 250] Words: [Fri, Jun, 03,, 2016, AMERICAN, FAMILY, INSURANCE, 1900, LATHROP, AVE, RACINE, WI, 53405-3707] Ratio: 0.26885
+Box: [180, 2080, 1020, 2320] Words: [', Your, American, Family, Agent, is., TIMOTHY, FiAASCH, -.1900, LATHROP, AVE, ‘, -, _, ., RACINE, WI, 53405-, 3707] Ratio: 0.501525
+Box: [210, 2080, 1050, 2320] Words: [', Your, American, Family, Agent, is., TIMOTHY, FiAASCH, -.1900, LATHROP, AVE, ‘, -, _, ., _, RACINE, WI, 53405-, 3707] Ratio: 0.50158125
+Box: [1250, 2080, 2090, 2320] Words: ['_, AGENT, PHONE, 262-898-1150, ., -, '_, E-MAIL:, traasch@amfam.com] Ratio: 0.28704375
+Box: [1370, 2040, 2210, 2280] Words: ['_, AGENT, PHONE, 262-898-1150, -, '_, E-MAIL:, traasch@amfam.com] Ratio: 0.28696875

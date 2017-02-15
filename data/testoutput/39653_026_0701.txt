@@ -1,0 +1,25 @@
+Page:1
+Box: [0, 370, 740, 610] Words: [Allstate, Mortgage, Relations, Center, PO, Box, 660649, Dallas, TX, 75266-0649] Ratio: 0.13962857142857144
+Box: [40, 880, 780, 1120] Words: [PO, BOX, 39653, -, SOLON, OH, 44139-0653-] Ratio: 0.23392142857142856
+Box: [170, 0, 910, 240] Words: [Received, Fri, Jun, 03,, 2016] Ratio: 0.08793571428571428
+Box: [170, 10, 910, 250] Words: [Fri, Jun, 03,, 2016] Ratio: 0.08793571428571428
+Box: [460, 0, 1200, 240] Words: [Jun, 03,, 2016] Ratio: 0.04069285714285714
+Box: [550, 0, 1290, 240] Words: [03,, 2016] Ratio: 0.030064285714285714
+Box: [640, 0, 1380, 240] Words: [2016] Ratio: 0.016392857142857143
+Box: [1140, 2550, 1880, 2790] Words: [0, $500, All, peril] Ratio: 0.059578571428571425
+Box: [1310, 2320, 2050, 2560] Words: [Applicable, Deductible(s), °, $500, All, peril] Ratio: 0.1773142857142857
+Box: [1470, 470, 2210, 710] Words: [Mortgagee, Relations, Center, (972), 915-5254] Ratio: 0.1909857142857143
+Box: [1670, 250, 2410, 490] Words: [Page, 1, of, 2] Ratio: 0.039478571428571425
+Box: [0, 0, 840, 240] Words: [017140, Received, Fri, Jun, 03,, 2016] Ratio: 0.09905
+Box: [0, 10, 840, 250] Words: [017140, Fri, Jun, 03,, 2016] Ratio: 0.09905
+Page:2
+Box: [0, 70, 740, 310] Words: [Mortgagee, Relations, Center, (972), 915-5254] Ratio: 0.19040714285714286
+Box: [0, 1600, 740, 1840] Words: [Office, Use, Space, Mortgagee, Short, Code, #, 022158] Ratio: 0.29086428571428574
+Box: [0, 1750, 740, 1990] Words: [Mortgagee, Short, Code, #, 022158] Ratio: 0.13490714285714286
+Box: [60, 500, 800, 740] Words: [Policy, documents, -, Deluxe, Homeowners, Policy-, AP780] Ratio: 0.32624285714285717
+Box: [70, 1360, 810, 1600] Words: [Message(s), >, Do, not, pay., Insured, has, been, billed.] Ratio: 0.28105714285714284
+Box: [1140, 980, 1880, 1220] Words: [', use] Ratio: 0.007978571428571429
+Box: [1140, 990, 1880, 1230] Words: ['] Ratio: 0.007978571428571429
+Box: [1510, 930, 2250, 1170] Words: [., ~, '~, ', “, ', use, "".':,‘-'I, 1.;, .;..,.-»-] Ratio: 0.05595714285714286
+Box: [1600, 930, 2340, 1170] Words: [., ~, '~, ', “, use, "".':,‘-'I, 1.;, .;..,.-»-] Ratio: 0.05587142857142857
+Box: [1640, 0, 2380, 240] Words: [Page, 2, of, 2] Ratio: 0.04012857142857143

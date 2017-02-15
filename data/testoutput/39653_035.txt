@@ -1,0 +1,84 @@
+Page:1
+Box: [120, 90, 860, 330] Words: [AMERICAN, FAMILY, INSURANCE, 6000, AMERICAN, PARKWAY, 024P, MADISON, WI, 53783-0001] Ratio: 0.25989285714285715
+Box: [170, 10, 910, 250] Words: [Fri, Jun, 03,, 2016, AMERICAN, FAMILY, INSURANCE, 6000, AMERICAN, PARKWAY, 024P, MADISON, WI, 53783-0001] Ratio: 0.34782857142857143
+Box: [760, 370, 1500, 610] Words: [0G0] Ratio: 0.0126
+Box: [1720, 3020, 2460, 3260] Words: [0235377] Ratio: 0.03795
+Box: [20, 90, 860, 330] Words: [AMERICAN, FAMILY, INSURANCE, 6000, AMERICAN, PARKWAY, 024P, '{, MADISON, WI, 53783-0001] Ratio: 0.22910625
+Page:2
+Box: [0, 420, 740, 660] Words: [Billing, Account, Number:, Payment, Requested, by:] Ratio: 0.24597142857142856
+Box: [10, 310, 750, 550] Words: [Thlrd, Party, Interest, (TPI):, Billing, Account, Number:] Ratio: 0.23602142857142858
+Box: [110, 2250, 850, 2490] Words: [AMERICAN, FAMILY, m] Ratio: 0.14127857142857142
+Box: [230, 3000, 970, 3240] Words: [5] Ratio: 0.00575
+Box: [290, 2780, 1030, 3020] Words: [JOHNSON, BANK, ITS, SUCCESSORS, AND/OR, ASSIGNS, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.33458571428571426
+Box: [400, 1820, 1140, 2060] Words: [Total, Premium, Added:, New, Payment, Amount:] Ratio: 0.19526428571428572
+Box: [470, 1680, 1210, 1920] Words: [Original, Amount, Due:, Total, Premium, Subtracted:, Total, Premium, Added:] Ratio: 0.2987714285714286
+Box: [530, 600, 1270, 840] Words: [Due, Date:, Amount, Due:] Ratio: 0.1188
+Box: [590, 3000, 1330, 3240] Words: [5, SUEDHBLLSSB] Ratio: 0.08625
+Box: [810, 600, 1550, 840] Words: [Due, Date:, 6/11/2016, Amount, Due:, $722.00] Ratio: 0.22195
+Box: [950, 30, 1690, 270] Words: [of, Payment, Due] Ratio: 0.2474
+Box: [1040, 70, 1780, 310] Words: [Payment, Due] Ratio: 0.22169285714285714
+Box: [1190, 1660, 1930, 1900] Words: [$722.00] Ratio: 0.04071428571428572
+Box: [1240, 2900, 1980, 3140] Words: [$] Ratio: 0.011571428571428571
+Box: [1250, 600, 1990, 840] Words: [6/11/2016, $722.00] Ratio: 0.10315
+Box: [1250, 2350, 1990, 2590] Words: [DUE, DATE, Amount, Due] Ratio: 0.10172857142857143
+Box: [1250, 2440, 1990, 2680] Words: [Amount, Due] Ratio: 0.055157142857142856
+Box: [1250, 2450, 1990, 2690] Words: [] Ratio: 0.055157142857142856
+Box: [1510, 70, 2250, 310] Words: [Page, 1, of, 4, ..] Ratio: 0.03643571428571429
+Box: [1540, 0, 2280, 240] Words: [Statement, Date:, 05/31/2016, Page, 1, of, 4, ..] Ratio: 0.15257142857142858
+Box: [1620, 1910, 2360, 2150] Words: [Please, do, not, paper, clip, or, staple, your, payment, to, the, stub.] Ratio: 0.09302857142857143
+Box: [1730, 2720, 2470, 2960] Words: [Make, payment, to:, American, Family, Insurance, Amount, Enclosed] Ratio: 0.22753571428571429
+Box: [1780, 1820, 2520, 2060] Words: [Rev., 06/13] Ratio: 0.0187
+Box: [730, 310, 1570, 550] Words: [JOHNSON, BANK, ITS, SUCCESSORS, AND/OR, ASSIGNS, 506-043-115, 53] Ratio: 0.27785
+Box: [820, 2990, 1660, 3230] Words: [5, SUEDHBLLSSB, 0000000000] Ratio: 0.14139375
+Box: [1630, 2350, 2470, 2590] Words: [DUE, DATE, June, 11,, 2016, Amount, Due, $722.00] Ratio: 0.17730625
+Box: [1630, 2440, 2470, 2680] Words: [Amount, Due, $722.00] Ratio: 0.08458125
+Page:3
+Box: [130, 2070, 870, 2310] Words: [Bllllng, Account, Number:, 506-043-115, 53] Ratio: 0.12
+Box: [1610, 2070, 2350, 2310] Words: [Statement, Date:, 05/31/2016] Ratio: 0.07486428571428572
+Page:4
+Box: [0, 540, 740, 780] Words: [Pollcy, Number, Comments, Loan, Number] Ratio: 0.12147142857142858
+Box: [0, 600, 740, 840] Words: [Pollcy, Number, Comments, Loan, Number, 48XT-2318-02-51] Ratio: 0.17247142857142858
+Box: [0, 710, 740, 950] Words: [48XT-2318-02-51] Ratio: 0.051
+Box: [0, 2500, 740, 2740] Words: [§, 0, O, o, O, o, o] Ratio: 0.025371428571428573
+Box: [0, 2890, 740, 3130] Words: [Processed, by] Ratio: 0.04835
+Box: [0, 2990, 740, 3230] Words: [ , Processed, by] Ratio: 0.04835
+Box: [670, 2880, 1410, 3120] Words: [Phone, Number] Ratio: 0.050057142857142856
+Box: [670, 2990, 1410, 3230] Words: [Phone, Number,  ] Ratio: 0.050057142857142856
+Box: [680, 560, 1420, 800] Words: [Customer, Name, Location, Address, FIICKY, PELISHEK] Ratio: 0.14869285714285715
+Box: [680, 710, 1420, 950] Words: [FIICKY, PELISHEK, 107, W, NEWTON, ST, RICE, LAKE, WI, 548681654] Ratio: 0.17309285714285713
+Box: [680, 780, 1420, 1020] Words: [107, W, NEWTON, ST, RICE, LAKE, WI, 548681654] Ratio: 0.12295
+Box: [940, 20, 1680, 260] Words: [Detail] Ratio: 0.0741
+Box: [1290, 500, 2030, 740] Words: [., Term, Start, Date, Term, End, Date, ', Pollcy, leIt] Ratio: 0.12312142857142858
+Box: [1300, 720, 2040, 960] Words: [06-26-2016, 06-26-2017, 131,818] Ratio: 0.09025714285714286
+Box: [1320, 500, 2060, 740] Words: [., Term, Start, Date, Term, End, Date, ', Pollcy, leIt, '] Ratio: 0.12320714285714286
+Box: [1390, 2880, 2130, 3120] Words: [Date] Ratio: 0.015742857142857142
+Box: [1390, 2990, 2130, 3230] Words: [Date,  ] Ratio: 0.015742857142857142
+Box: [1510, 720, 2250, 960] Words: [06-26-2016, $722.00, 06-26-2017, 131,818] Ratio: 0.11682857142857143
+Box: [1540, 0, 2280, 240] Words: [Statement, Date:, 05/31/2016, Page, 3, of, 4] Ratio: 0.15323571428571428
+Box: [1540, 720, 2280, 960] Words: [06-26-2016, $722.00, -, 06-26-2017, 131,818] Ratio: 0.11691428571428572
+Box: [1550, 500, 2290, 740] Words: [., Term, Start, Date, Term, End, Date, ', Pollcy, leIt, ', Amount, Due] Ratio: 0.15907857142857143
+Box: [1620, 2990, 2360, 3230] Words: [Date,  ,  ] Ratio: 0.015742857142857142
+Box: [1050, 2880, 1890, 3120] Words: [Phone, Number, Date] Ratio: 0.057575
+Box: [1050, 2990, 1890, 3230] Words: [Phone, Number, Date,  ,  ] Ratio: 0.057575
+Box: [1100, 2990, 1940, 3230] Words: [Phone, Number, Date,  ] Ratio: 0.057575
+Page:5
+Box: [0, 420, 740, 660] Words: [Billing, Account, Number:] Ratio: 0.11427142857142857
+Box: [0, 2890, 740, 3130] Words: [Processed, by] Ratio: 0.048842857142857146
+Box: [10, 320, 750, 560] Words: [Third, Party, Interest, (TPI):, Billing, Account, Number:] Ratio: 0.24385714285714286
+Box: [530, 770, 1270, 1010] Words: [Customer, Name/, Address] Ratio: 0.14040714285714287
+Box: [530, 800, 1270, 1040] Words: [Name/, Address] Ratio: 0.14040714285714287
+Box: [660, 2880, 1400, 3120] Words: [Phone, Number] Ratio: 0.05121428571428571
+Box: [660, 2990, 1400, 3230] Words: [Phone, Number,  ] Ratio: 0.05121428571428571
+Box: [940, 20, 1680, 260] Words: [,-, Detail] Ratio: 0.0764
+Box: [940, 70, 1680, 310] Words: [Detail] Ratio: 0.0754
+Box: [1140, 770, 1880, 1010] Words: [Loan, Number] Ratio: 0.0594
+Box: [1380, 80, 2120, 320] Words: [Page, 4, of, 4] Ratio: 0.037192857142857146
+Box: [1390, 2880, 2130, 3120] Words: [Date] Ratio: 0.01595
+Box: [1390, 2990, 2130, 3230] Words: [Date,  ] Ratio: 0.01595
+Box: [1540, 0, 2280, 240] Words: [Statement, Date:, 05/31/2016, Page, 4, of, 4] Ratio: 0.15198571428571428
+Box: [120, 100, 960, 340] Words: [AMERICAN, FAMILY, m, I., Billing, amfam.com, I, 1-800-MY, AMFAM, (692-6326)] Ratio: 0.40265625
+Box: [730, 320, 1570, 560] Words: [JOHNSON, BANK, ITS, SUCCESSORS, AND/OR, ASSIGNS, 506-043-115, 53] Ratio: 0.27204375
+Box: [1050, 2880, 1890, 3120] Words: [Phone, Number, Date] Ratio: 0.05876875
+Box: [1050, 2990, 1890, 3230] Words: [Phone, Number,  , Date,  ] Ratio: 0.05876875
+Box: [1090, 2990, 1930, 3230] Words: [Phone, Number, Date,  ] Ratio: 0.05876875
+Box: [1500, 760, 2340, 1000] Words: [Loan, Number, Payment, Amount] Ratio: 0.12719375

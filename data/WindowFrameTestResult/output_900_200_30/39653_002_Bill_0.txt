@@ -1,0 +1,4 @@
+Box: [0, 70, 960, 330] Words: [n:, IIuraI, Mutual, Insurance, Company] Ratio: 0.3874944444444444
+Box: [0, 1170, 960, 1430] Words: [Your, CRAIG, WIEMERI, Agent:, 2043, LIBERTY, AVE, BELOIT, WI, 53511, OFFICE:, 608-365-6699] Ratio: 0.2902722222222222
+Box: [1320, 490, 2280, 750] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.23448333333333332
+Box: [1510, 2200, 2470, 2460] Words: [ , Total, Amount, Due, $340.00,  ,  ,  ,  ] Ratio: 0.26211111111111113

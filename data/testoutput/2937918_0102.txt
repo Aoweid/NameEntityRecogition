@@ -1,0 +1,56 @@
+Page:1
+Box: [0, 0, 740, 240] Words: [Ins‘v’ista, LLC, 9, Rosha, ton, T, 77, 58, 3] Ratio: 0.09845
+Box: [0, 1150, 740, 1390] Words: [Mi, 11vi11e, Nutua;, Ins-, to, Insured:, Daniel, '—, rum,  , 1305, N, Sugar, G],  ] Ratio: 0.1092
+Box: [0, 1550, 740, 1790] Words: [Mi, 1, 1, vi, “, Insured;, "e, Mutual, Tris, Cu,  , Daniel, Judy, ZOE», Weaver, 5“:, Ciearfield, 1A] Ratio: 0.13625714285714285
+Box: [0, 1770, 740, 2010] Words: [Insured., Property:, ZOE», Weaver, St, Ciearfield, PA, 16830] Ratio: 0.10525714285714285
+Box: [80, 490, 820, 730] Words: [Loan, Protector, Genera, 6125, Cochran, Road, Suite, 1, Solon, OH, 44139,    ,  , l, l, 4.] Ratio: 0.23292857142857143
+Box: [280, 140, 1020, 380] Words: [77, 58, 3] Ratio: 0.009085714285714286
+Box: [280, 170, 1020, 410] Words: [] Ratio: 0.009085714285714286
+Box: [320, 1840, 1060, 2080] Words: [16830] Ratio: 0.011128571428571429
+Box: [450, 620, 1190, 860] Words: [44139] Ratio: 0.022757142857142858
+Box: [460, 1310, 1200, 1550] Words: [v, in, re, E?, r.] Ratio: 0.009392857142857142
+Box: [620, 1310, 1360, 1550] Words: [Savings, v, in, re, E?, r.] Ratio: 0.030285714285714287
+Box: [710, 1310, 1450, 1550] Words: [Savings, Bank, v, in, re, E?, r.,  ] Ratio: 0.03937857142857143
+Box: [730, 1160, 1470, 1400] Words: [Policy, Number:, 1033403, Policy, Period, from;, 07/06/16, Loan, Number:, 1165071240, Savings, Bank, v, in, re, E?, r.] Ratio: 0.20341428571428571
+Box: [730, 1490, 1470, 1730] Words: [Policy, Number:, 1, @6014, Policy, Period, from:, 'b/lé, Loan, Number:, 1555032877,  ,   ] Ratio: 0.16535714285714287
+Box: [760, 580, 1500, 820] Words: [Remit] Ratio: 0.024107142857142858
+Box: [780, 740, 1520, 980] Words: [Total] Ratio: 0.023335714285714286
+Box: [800, 360, 1540, 600] Words: [Agency] Ratio: 0.03559285714285714
+Box: [820, 1710, 1560, 1950] Words: [lst:, Northwest, Savings, Bank, Tsaoa, 39545, (311, 4111397, 0:45,  ] Ratio: 0.10596428571428572
+Box: [850, 580, 1590, 820] Words: [Remit, Te:] Ratio: 0.03553571428571429
+Box: [1000, 220, 1740, 460] Words: [I, F, YOU, ELEC] Ratio: 0.018385714285714286
+Box: [1000, 1310, 1740, 1550] Words: [Savings, Bank, E?, r.,  ] Ratio: 0.03427142857142857
+Box: [1010, 1710, 1750, 1950] Words: [Northwest, Savings, Bank, Tsaoa, 39545, (311, 4111397, 0:45,  ] Ratio: 0.09782142857142857
+Box: [1040, 540, 1780, 780] Words: [Remit, Te:, 9?, B03, Ml, llv1.l] Ratio: 0.08942142857142857
+Box: [1260, 970, 2000, 1210] Words: [Payment, Enclosed:, DO, NOT, MAIL, PAYMENTS] Ratio: 0.19440714285714286
+Box: [1350, 970, 2090, 1210] Words: [Payment, Enclosed:, DO, NOT, MAIL, PAYMENTS, TO] Ratio: 0.20680714285714286
+Box: [1440, 350, 2180, 590] Words: [I, F, YOU, ELEC,  ,  ,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868"] Ratio: 0.0825
+Box: [1440, 360, 2180, 600] Words: [I, F, YOU, ELEC,  ,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868"] Ratio: 0.0825
+Box: [1470, 260, 2210, 500] Words: [ , I, F, YOU, ELEC,  ,  , on,, no, tice, :,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868"] Ratio: 0.09990714285714286
+Box: [1470, 270, 2210, 510] Words: [I, F, YOU, ELEC,  ,  , on,, no, tice, :,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868"] Ratio: 0.09990714285714286
+Box: [1480, 540, 2220, 780] Words: [Te:, 9?, B03, Ml, llv1.l] Ratio: 0.06531428571428571
+Box: [1530, 1310, 2270, 1550] Words: [Coverage, Limits:, 122,800, Deductible:, 5560] Ratio: 0.09055
+Box: [1540, 1710, 2280, 1950] Words: [Ccverage, Limits:, 144,200, Deductible:, 250] Ratio: 0.09068571428571429
+Box: [1570, 540, 2310, 780] Words: [9?, B03, Ml, llv1.l] Ratio: 0.05388571428571429
+Box: [1630, 40, 2370, 280] Words: [Mortgages, Bill, a, change, of, address,, contact, the, company, or, ,0, notice.,  ] Ratio: 0.19206428571428572
+Box: [1630, 140, 2370, 380] Words: [a, change, of, address,, contact, the, company, or, ,0, notice.,  ,  , on,, no, tice, :] Ratio: 0.12152857142857143
+Box: [1680, 1490, 2420, 1730] Words: [06770172004, 1234453, E’remium, Due, Amount:, Bill, Date:, Time, Date:] Ratio: 0.11411428571428571
+Box: [1720, 260, 2460, 500] Words: [ ,  , on,, no, tice, :,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868",  ] Ratio: 0.08152142857142858
+Box: [1720, 270, 2460, 510] Words: [ , on,, no, tice, :,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868",  ] Ratio: 0.08152142857142858
+Box: [1720, 350, 2460, 590] Words: [ ,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868",  ] Ratio: 0.06411428571428572
+Box: [1720, 360, 2460, 600] Words: [ , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868",  ] Ratio: 0.06411428571428572
+Box: [1740, 1490, 2480, 1730] Words: [06770172004, 1234453, E’remium, Due, Amount:, Bill, Date:, Time, Date:,  ] Ratio: 0.11411428571428571
+Box: [1740, 1820, 2480, 2060] Words: [0670172004, 1234453, 2098130280981] Ratio: 0.06935
+Box: [1770, 270, 2510, 510] Words: [on,, no, tice, :,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868",  ] Ratio: 0.08152142857142858
+Box: [1770, 360, 2510, 600] Words: [LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868",  ] Ratio: 0.06411428571428572
+Box: [160, 490, 1000, 730] Words: [Loan, Protector, Genera, 6125, Cochran, Road, Suite, 1, Solon, OH, 44139,    ,  , l, l, 4., Agency] Ratio: 0.23495625
+Box: [860, 1160, 1700, 1400] Words: [Policy, Number:, 1033403, Policy, Period, from;, 07/06/16, Loan, Number:, 1165071240, sz::07/()6/17, Savings, Bank, v, in, re, E?, r.] Ratio: 0.204725
+Box: [860, 1490, 1700, 1730] Words: [Policy, Number:, 1, @6014, Policy, Period, from:, 'b/lé, Tc:07/06/17, Loan, Number:, 1555032877,  ,   ] Ratio: 0.171425
+Box: [1450, 1490, 2290, 1730] Words: [06770172004, 1234453, Tc:07/06/17, E’remium, Due, Amount:, Bill, Date:, Time, Date:] Ratio: 0.1265875
+Box: [1500, 260, 2340, 500] Words: [ , I, F, YOU, ELEC,  ,  ,  , on,, no, tice, :,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868"] Ratio: 0.08741875
+Box: [1500, 760, 2340, 1000] Words: [Contact, Phene#, (57”)/Sa~5517, Remittance, Due:$1,939500] Ratio: 0.23719375
+Box: [1530, 140, 2370, 380] Words: [ , a, change, of, address,, contact, the, company, or, ,0, notice.,  ,  , on,, no, tice, :] Ratio: 0.1063375
+Box: [1580, 260, 2420, 500] Words: [ , I, F, YOU, ELEC,  ,  ,  , on,, no, tice, :,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868",  ] Ratio: 0.08741875
+Box: [1580, 270, 2420, 510] Words: [I, F, YOU, ELEC,  ,  , on,, no, tice, :,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868",  ] Ratio: 0.08741875
+Box: [1580, 350, 2420, 590] Words: [I, F, YOU, ELEC,  ,  ,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868",  ] Ratio: 0.0721875
+Box: [1580, 360, 2420, 600] Words: [I, F, YOU, ELEC,  ,  , LIKE, TO, F,ECE""\/E, T, ', ",, CALL, (866)868",  ] Ratio: 0.0721875

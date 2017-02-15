@@ -1,0 +1,3 @@
+Box: [0, 570, 760, 930] Words: [2232, 1, MB, 0.419, JOHNSON, BANK, ISAOA, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.22136666666666666
+Box: [660, 1430, 1420, 1790] Words: [Policy, Number:, 00664-64721, Loan, Number:, 3290111571] Ratio: 0.23370476190476192
+Box: [690, 1100, 1450, 1460] Words: [Name, and, Address, of, Insured:, Yuly, Osorio, 8-, Julio, Araujo, 6238, Dominion, Dr, Madison, WI, 53718-3123] Ratio: 0.40665238095238093

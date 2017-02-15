@@ -1,0 +1,2 @@
+Box: [100, 560, 940, 800] Words: [Heather, L, Schimmers, 1408, Southfield, Dr, Menasha, WI, 54952-9490] Ratio: 0.23830625
+Box: [1180, 110, 2020, 350] Words: [Homeowners, —, Badger, 2000, Renewal, Declaration] Ratio: 0.2392875

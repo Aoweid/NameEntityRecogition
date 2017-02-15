@@ -1,0 +1,50 @@
+Page:1
+Box: [0, 0, 740, 240] Words: [BEKBSXZBlE, 89:15, 71548?B774] Ratio: 0.05544285714285714
+Box: [0, 1170, 740, 1410] Words: [Thank, You., insurance, Department] Ratio: 0.04912857142857143
+Box: [0, 1740, 740, 1980] Words: [Fax, ID:, MBNOR, Few-59437701] Ratio: 0.04032857142857143
+Box: [390, 0, 1130, 240] Words: [71548?B774, GLATZ, ﬁGENCV, H“, Urgent, *3”] Ratio: 0.09482857142857143
+Box: [470, 60, 1210, 300] Words: [H“, Urgent, *3”, MORTGAGEE‘, REQUEST, FOR, INFORMATION] Ratio: 0.15605
+Box: [610, 0, 1350, 240] Words: [GLATZ, ﬁGENCV, H“, Urgent, *3”] Ratio: 0.07338571428571429
+Box: [280, 0, 1120, 240] Words: [89:15, 71548?B774, GLATZ, ﬁGENCV, H“, Urgent, *3”] Ratio: 0.09211875
+Box: [710, 0, 1550, 240] Words: [GLATZ, ﬁGENCV, PﬁGE, H“, Urgent, *3”] Ratio: 0.07169375
+Page:2
+Box: [0, 0, 740, 240] Words: [BEKBSXZBlE, 09:15, 71548?B774, Continuation, Declarations] Ratio: 0.11100714285714286
+Box: [0, 280, 740, 520] Words: [Named, Insured, FREDERICK, A, &, WRNDOLYN, H, LARSON, 641, LAKEVIEW, AVE, JAMESTOWN, NY, 14701-3101] Ratio: 0.1634357142857143
+Box: [0, 330, 740, 570] Words: [FREDERICK, A, &, WRNDOLYN, H, LARSON, 641, LAKEVIEW, AVE, JAMESTOWN, NY, 14701-3101] Ratio: 0.1634357142857143
+Box: [0, 980, 740, 1220] Words: [A, —, DWELLING, B, -, OTHER, STRUCTURES, c, -, PERSONAL, PROPERTY, D, —, LOSS, OF, USE, Section, II, -, Liability, Coverages] Ratio: 0.18582142857142858
+Box: [0, 1760, 740, 2000] Words: [r., Account, Discount, Lose, Free, Credit] Ratio: 0.0914
+Box: [0, 1880, 740, 2120] Words: [Continued, on, next, page, PL—M61t-97, emoxwza, oecm, 10] Ratio: 0.0658
+Box: [110, 490, 850, 730] Words: [YourPolicyNumber:, 985064714, 633, 1, Your, Account, Number:, 935060359] Ratio: 0.1589142857142857
+Box: [140, 720, 880, 960] Words: [Policy, Period, mom, 07—03—16, To:, 07-03—17, 12:01, A.M., STANDARD, TIME, AT, THE, RESIDENCE, PREMISES, Section, I, -, Property, Coverages] Ratio: 0.24895
+Box: [170, 1130, 910, 1370] Words: [Section, II, -, Liability, Coverages, E, -, PERSONAL, LIABILITY, (BODIL!, INJURY, AND, PROPERTY, DAMAGE), EACH, OCCURRENCE, F, —, MEDICAL, PAYMENTS, TO, OTHERS—, EACH, PERSON] Ratio: 0.2834
+Box: [400, 0, 1140, 240] Words: [71548?B774, GLATZ, ﬁGENCV] Ratio: 0.045192857142857146
+Box: [400, 60, 1140, 300] Words: [HOMEOWNERS, POLICY] Ratio: 0.08437857142857143
+Box: [580, 1890, 1320, 2130] Words: [Insured, Copy, 005143I00570, F3115AH5, 8636, 05/16/16] Ratio: 0.057792857142857146
+Box: [670, 880, 1410, 1120] Words: [Liability, $, 327,000, $, 32,700, 228, ,, 90, 0, 98,100] Ratio: 0.10854285714285715
+Box: [670, 970, 1410, 1210] Words: [$, 327,000, $, 32,700, 228, ,, 90, 0, 98,100] Ratio: 0.05997142857142857
+Box: [670, 980, 1410, 1220] Words: [32,700, 228, ,, 90, 0, 98,100] Ratio: 0.05997142857142857
+Box: [730, 280, 1470, 520] Words: [Your, Agency’s, Name, and, Address, GLATZ, AGENCY, 600, W, 4TH, ST, JAMESTOWN., NY, 14701] Ratio: 0.16014285714285714
+Box: [730, 380, 1470, 620] Words: [GLATZ, AGENCY, 600, W, 4TH, ST, JAMESTOWN., NY, 14701] Ratio: 0.07585
+Box: [740, 1890, 1480, 2130] Words: [Insured, Copy, Page, 005143I00570, F3115AH5, 8636, 05/16/16] Ratio: 0.06739285714285714
+Box: [810, 0, 1550, 240] Words: [GLATZ, ﬁGENCV, PNGE, TRAVELERS?] Ratio: 0.2273
+Box: [840, 480, 1580, 720] Words: [For, Policy, Service, Call:, (716), 483-1573, For, Claim, Service, Call:, 1—800~CLAIM33] Ratio: 0.1641
+Box: [870, 880, 1610, 1120] Words: [Liability, $, 327,000, $, 651.00, 32,700, INCL, 228, ,, 90, 0, INCL, 98,100, INCL] Ratio: 0.1679357142857143
+Box: [870, 970, 1610, 1210] Words: [$, 327,000, $, 651.00, 32,700, INCL, 228, ,, 90, 0, INCL, 98,100, INCL] Ratio: 0.09735
+Box: [870, 980, 1610, 1220] Words: [32,700, INCL, 228, ,, 90, 0, INCL, 98,100, INCL] Ratio: 0.09735
+Box: [890, 1110, 1630, 1350] Words: [5, 300,000, $, 18.00, 1,, 0, 0, 0, INCL] Ratio: 0.047214285714285716
+Box: [920, 1220, 1660, 1460] Words: [5, 300,000, 1,, 0, 0, 0, INCL] Ratio: 0.047214285714285716
+Box: [920, 1270, 1660, 1510] Words: [1,, 0, 0, 0, INCL] Ratio: 0.015921428571428572
+Box: [760, 1890, 1600, 2130] Words: [Insured, Copy, Page, 1, of, 4, 005143I00570, F3115AH5, 8636, 05/16/16] Ratio: 0.06585625
+Box: [820, 0, 1660, 240] Words: [GLATZ, ﬁGENCV, PNGE, BZKBS, TRAVELERS?] Ratio: 0.20899375
+Page:3
+Box: [0, 0, 740, 240] Words: [BEKBSXZBlE, 89:15, 71548?B774] Ratio: 0.05544285714285714
+Box: [0, 420, 740, 660] Words: [First, Mortgagee, NORTHWEST, SAVINGS, BANK, ISAOA, PO, BOX, 39545, SOLON, OH, 44139] Ratio: 0.14175714285714286
+Box: [0, 480, 740, 720] Words: [NORTHWEST, SAVINGS, BANK, ISAOA, PO, BOX, 39545, SOLON, OH, 44139] Ratio: 0.14175714285714286
+Box: [0, 1900, 740, 2140] Words: [Continued, on, next, page, PL-86511—97, B79IOXJ921, DECK:, 10] Ratio: 0.06282142857142857
+Box: [390, 0, 1130, 240] Words: [71548?B774, GLATZ, ﬁGENCV] Ratio: 0.045192857142857146
+Box: [610, 0, 1350, 240] Words: [GLATZ, ﬁGENCV] Ratio: 0.02375
+Box: [810, 0, 1550, 240] Words: [GLATZ, ﬁGENCV, PﬁGE] Ratio: 0.0323
+Box: [860, 1860, 1600, 2100] Words: [Page, 2, of, 4] Ratio: 0.01687857142857143
+Box: [280, 0, 1120, 240] Words: [89:15, 71548?B774, GLATZ, ﬁGENCV] Ratio: 0.0486875
+Box: [410, 590, 1250, 830] Words: [OH, 44139, vaco, Insurance, Company, One, of, The, Travelers, Property, Casualty, Companies, One, Tower, Square,, Hartford,, CT, 06183] Ratio: 0.20515625
+Box: [820, 0, 1660, 240] Words: [GLATZ, ﬁGENCV, PﬁGE, BSXBB] Ratio: 0.03836875

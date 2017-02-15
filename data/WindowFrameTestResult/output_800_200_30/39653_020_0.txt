@@ -1,0 +1,4 @@
+Box: [570, 1430, 1430, 1690] Words: [Policy, Number:, 00526-70872, Loan, Number:, 329004923] Ratio: 0.2991
+Box: [630, 1190, 1490, 1450] Words: [Craig, R, Jacobs, 8., Victoria, L, Jacobs, 6627, Highway, 31, Caledonia, WI, 53402-9734] Ratio: 0.43516875
+Box: [630, 1200, 1490, 1460] Words: [R, Jacobs, 8., Victoria, L, Jacobs, 6627, Highway, 31, Caledonia, WI, 53402-9734] Ratio: 0.43516875
+Box: [1560, 2610, 2420, 2870] Words: [62221, Reuter, &, Associates, Inc, Direct, SI3, MT, 001] Ratio: 0.244

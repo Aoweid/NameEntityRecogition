@@ -1,0 +1,11 @@
+Box: [100, 560, 940, 800] Words: [Heather, L, Schimmers, 1408, Southfield, Dr, MEnasha, WI, 54952-9490] Ratio: 0.2378875
+Box: [100, 1170, 940, 1410] Words: [BASIC, ATTACHED, COVERAGES, ENDORSEMENTS, PREMIUM, PREMIUM, $788.00] Ratio: 0.24501875
+Box: [100, 1180, 940, 1420] Words: [BASIC, COVERAGES, ENDORSEMENTS, PREMIUM, PREMIUM, $788.00] Ratio: 0.24501875
+Box: [100, 1930, 940, 2170] Words: [Coverage, A, Coverage, B, Other, Structures, Coverage, C, Personal, Property, Coverage, D, Loss, of, Use] Ratio: 0.41994375
+Box: [140, 930, 980, 1170] Words: [THE, RESIDENCE, PREMISES, COVERED, UNLESS, OTHERWISE, STATED.] Ratio: 0.21000625
+Box: [390, 1930, 1230, 2170] Words: [A, B, Other, Structures, C, Personal, Property, D, Loss, of, Use] Ratio: 0.2486625
+Box: [520, 1170, 1360, 1410] Words: [ATTACHED, SCHEDULED, ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $147.00] Ratio: 0.25885625
+Box: [520, 1180, 1360, 1420] Words: [ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $147.00] Ratio: 0.25885625
+Box: [960, 1410, 1800, 1650] Words: [CONST, NUM, OCCUP, PROT, TERR, YEAR, FAM, CODE, CLASS, CODE, 2000, 1, PR, 3] Ratio: 0.2079625
+Box: [1200, 120, 2040, 360] Words: [Homeowners, -, Badger, 2000, Renewal, Declaration] Ratio: 0.23959375
+Box: [1200, 130, 2040, 370] Words: [Homeowners, -, 2000, Renewal, Declaration] Ratio: 0.23959375

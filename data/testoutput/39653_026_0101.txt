@@ -1,0 +1,22 @@
+Page:1
+Box: [0, 360, 740, 600] Words: [Allstate, Mortgage, Relations, Center, PO, Box, 660649, Dallas, TX, 75266-0649] Ratio: 0.13825
+Box: [170, 0, 910, 240] Words: [Received, Fri, Jun, 03,, 2016] Ratio: 0.09042142857142857
+Box: [170, 10, 910, 250] Words: [Fri, Jun, 03,, 2016] Ratio: 0.09042142857142857
+Box: [460, 0, 1200, 240] Words: [Jun, 03,, 2016] Ratio: 0.04317857142857143
+Box: [550, 0, 1290, 240] Words: [03,, 2016] Ratio: 0.03255
+Box: [640, 0, 1380, 240] Words: [2016] Ratio: 0.016392857142857143
+Box: [1130, 2540, 1870, 2780] Words: [-, $250, All, peril] Ratio: 0.05755
+Box: [1300, 2320, 2040, 2560] Words: [Applicable, Deductible(s), -, $250, All, peril] Ratio: 0.17872857142857143
+Box: [1300, 2420, 2040, 2660] Words: [-, $250, All, peril, -, $250, All, peril] Ratio: 0.23627857142857142
+Box: [1460, 450, 2200, 690] Words: [Mortgage, Relations, Center, (972), 915-5254] Ratio: 0.18935714285714286
+Box: [1670, 240, 2410, 480] Words: [Page, 1, of, 2] Ratio: 0.039107142857142854
+Box: [0, 0, 840, 240] Words: [017140, Received, Fri, Jun, 03,, 2016] Ratio: 0.101225
+Box: [0, 10, 840, 250] Words: [017140, Fri, Jun, 03,, 2016] Ratio: 0.101225
+Page:2
+Box: [0, 80, 740, 320] Words: [Mortgagee, Relations, Center, (972), 915-5254] Ratio: 0.1931857142857143
+Box: [0, 1710, 740, 1950] Words: [Office, Use, Space, Mortgagee, Short, Code, #, 022158] Ratio: 0.28927142857142857
+Box: [60, 500, 800, 740] Words: [Policy, documents, -, Deluxe, Homeowners, Policy-, AP780] Ratio: 0.32417142857142855
+Box: [60, 1470, 800, 1710] Words: [Message(s), >, Do, not, pay., Insured, has, been, billed.] Ratio: 0.26959285714285713
+Box: [1170, 760, 1910, 1000] Words: [-, Amendatory, Endorsement, -, AP4813, -, Amendatory, Endorsement, -, AP4761] Ratio: 0.3050357142857143
+Box: [1170, 830, 1910, 1070] Words: [-, Amendatory, Endorsement, -, AP4761] Ratio: 0.15228571428571427
+Box: [1640, 0, 2380, 240] Words: [Page, 2, of, 2] Ratio: 0.04095

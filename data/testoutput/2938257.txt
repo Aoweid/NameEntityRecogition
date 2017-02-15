@@ -1,0 +1,19 @@
+Page:1
+Box: [270, 1840, 1010, 2080] Words: [REFER, TO, FINAL, PAGE, FOR] Ratio: 0.06117857142857143
+Box: [560, 1380, 1300, 1620] Words: [PO, BOX, 39545] Ratio: 0.032921428571428574
+Box: [580, 1440, 1320, 1680] Words: [PO, BOX, 39545, 307, BOYER, AVE.] Ratio: 0.07183571428571428
+Box: [580, 1450, 1320, 1690] Words: [PO, BOX, 307, BOYER, AVE.] Ratio: 0.07183571428571428
+Box: [900, 1180, 1640, 1420] Words: [NET, PREMIUM, DUE, 609.00, 12/13,, HP-537, 11/07,, H0044I, 04/91,, HP511, 05/97,, H0—291, 01/81,] Ratio: 0.2704785714285714
+Box: [910, 1830, 1650, 2070] Words: [FOR, BILLING, NOTICE] Ratio: 0.054085714285714286
+Box: [480, 1840, 1320, 2080] Words: [REFER, TO, FINAL, PAGE, FOR, BILLING, NOTICE] Ratio: 0.0931125
+Box: [840, 1380, 1680, 1620] Words: [PO, BOX, 39545, 44139] Ratio: 0.04275
+Page:2
+Box: [0, 360, 740, 600] Words: [Dimelinig, And, Schrot, Inc, 114, S, Front, Street, Po, Be, 908, Clearfleld, ,, PA, 16830] Ratio: 0.10237142857142857
+Box: [0, 1310, 740, 1550] Words: [Sincerely,, Loan, Servicing, Northwest, Bank, __, Fax:, 440-505-6050] Ratio: 0.09533571428571429
+Box: [0, 1380, 740, 1620] Words: [Loan, Servicing, Northwest, Bank, __, Fax:, 440-505-6050] Ratio: 0.07808571428571429
+Box: [0, 1430, 740, 1670] Words: [Northwest, Bank, __, Fax:, 440-505-6050] Ratio: 0.056678571428571425
+Box: [0, 1480, 740, 1720] Words: [__, Fax:, 440-505-6050] Ratio: 0.03428571428571429
+Box: [320, 1100, 1060, 1340] Words: [Northwest, Bank, Its, Successors, and/or, Assigns, Po, Box, 39545, Solon,, OH, 44139-0545] Ratio: 0.1256857142857143
+Box: [450, 90, 1190, 330] Words: [QAVINGS, BANK, Where, People, Make, The, Difference., ENDRTHWEST] Ratio: 0.6
+Box: [660, 380, 1400, 620] Words: [Policy, Number:, HP, 5151233, Insured, Name:, Holcombe, Patricia, Coverage:, Hazard, Insurance, Carrier:, Donegal, Mutual, Insurance, Company, Expiration, Date:, 10/02/2016] Ratio: 0.24604285714285715
+Box: [860, 380, 1600, 620] Words: [05/31/2016, Policy, Number:, HP, 5151233, Insured, Name:, Holcombe, Patricia, Coverage:, Hazard, Insurance, Carrier:, Donegal, Mutual, Insurance, Company, Expiration, Date:, 10/02/2016] Ratio: 0.26449285714285714

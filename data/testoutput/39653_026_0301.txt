@@ -1,0 +1,28 @@
+Page:1
+Box: [0, 360, 740, 600] Words: [Allstate, Mortgage, Relations, Center, PO, Box, 660649, Dallas, TX, 75266-0649] Ratio: 0.13882142857142857
+Box: [0, 2320, 740, 2560] Words: [Coverage, Dwelling, Protection] Ratio: 0.13051428571428572
+Box: [0, 2420, 740, 2660] Words: [Coverage, Dwelling, Protection, Other, Structures, Protection] Ratio: 0.23991428571428572
+Box: [20, 870, 760, 1110] Words: [JOHNSON, BANK, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.23045
+Box: [170, 0, 910, 240] Words: [Received, Fri, Jun, 03,, 2016] Ratio: 0.08793571428571428
+Box: [170, 10, 910, 250] Words: [Fri, Jun, 03,, 2016] Ratio: 0.08793571428571428
+Box: [460, 0, 1200, 240] Words: [Jun, 03,, 2016] Ratio: 0.04069285714285714
+Box: [490, 2310, 1230, 2550] Words: [Limits, of, Liability, $398,000] Ratio: 0.12729285714285715
+Box: [550, 0, 1290, 240] Words: [03,, 2016] Ratio: 0.030064285714285714
+Box: [630, 2540, 1370, 2780] Words: [$39,800] Ratio: 0.042064285714285714
+Box: [640, 0, 1380, 240] Words: [2016] Ratio: 0.016392857142857143
+Box: [750, 870, 1490, 1110] Words: [ITS, SUCCESSORS, &/OR, ASSIGNS] Ratio: 0.14345
+Box: [1290, 1510, 2030, 1750] Words: [».«~~}-] Ratio: 0.0145
+Box: [1460, 460, 2200, 700] Words: [Mortgagee, Relations, Center, (972), 915-5254] Ratio: 0.19122142857142857
+Box: [1590, 1510, 2330, 1750] Words: [».«~~}-, «1-...] Ratio: 0.022385714285714287
+Box: [1660, 240, 2400, 480] Words: [Page, 1, of, 2] Ratio: 0.040214285714285716
+Box: [10, 0, 850, 240] Words: [017140, Received, Fri, Jun, 03,, 2016] Ratio: 0.09905
+Box: [10, 10, 850, 250] Words: [017140, Fri, Jun, 03,, 2016] Ratio: 0.09905
+Box: [1230, 1970, 2070, 2210] Words: [Policy, Number:, 962, 070, 152, (please, refer, to, policy, number, in, future), Control, Number:, 033160610781323, Policy, Type:, House, &, Home] Ratio: 0.47150625
+Page:2
+Box: [0, 70, 740, 310] Words: [Mortgagee, Relations, Center, (972), 915-5254] Ratio: 0.19137857142857143
+Box: [0, 420, 740, 660] Words: [Mortgagee(s)] Ratio: 0.16114285714285714
+Box: [0, 1010, 740, 1250] Words: [Office, Use, Space, Mortgagee, Short, Code, #, 022158] Ratio: 0.28614285714285714
+Box: [0, 1090, 740, 1330] Words: [Use, Space, Mortgagee, Short, Code, #, 022158] Ratio: 0.28614285714285714
+Box: [0, 1170, 740, 1410] Words: [Mortgagee, Short, Code, #, 022158] Ratio: 0.13157142857142856
+Box: [60, 780, 800, 1020] Words: [Message(s), >, Do, not, pay., Insured, has, been, billed.] Ratio: 0.26747857142857145
+Box: [1630, 0, 2370, 240] Words: [Page, 2, of, 2] Ratio: 0.040807142857142854

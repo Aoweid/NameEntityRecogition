@@ -1,0 +1,1 @@
+Box: [1370, 1950, 2130, 2310] Words: ['_, AGENT, PHONE, 262-898-1150, -, '_, E-MAIL:, traasch@amfam.com] Ratio: 0.21864285714285714

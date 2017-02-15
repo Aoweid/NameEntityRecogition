@@ -1,0 +1,13 @@
+Box: [100, 620, 940, 860] Words: [Craig, R, Jacobs, 5, Victoria, L, Jacobs, 6627, Highway, 31, Caledonia, WI, 53402-9734] Ratio: 0.29898125
+Box: [100, 1170, 940, 1410] Words: [BASIC, ATTACHED, COVERAGES, ENDORSEMENTS, PREMIUM, PREMIUM, $541.00, $13.00-] Ratio: 0.28725625
+Box: [100, 1230, 940, 1470] Words: [COVERAGES, ENDORSEMENTS, PREMIUM, PREMIUM, $541.00, $13.00-] Ratio: 0.22968125
+Box: [100, 1930, 940, 2170] Words: [Coverage, A, Dwelling, Coverage, B, other, Structures, Coverage, C, Personal, Property, Coverage, D, Loss, of, Use] Ratio: 0.42200625
+Box: [100, 2580, 940, 2820] Words: [ISAOA, Po, Box, 39653, Solon, OH, 44139-0653, LOAN, #, 329004923] Ratio: 0.20671875
+Box: [140, 940, 980, 1180] Words: [THE, RESIDENCE, PREMISES, COVERED, UNLESS, OTHERWISE, STATED.] Ratio: 0.2115125
+Box: [140, 1460, 980, 1700] Words: [ITEM, PROP, HAIL, PROP, CONST, NUM, DEDUCT, DEDUCT, FORM, TYPE, 001, $500, YES, 3, FR, MORTGAGEES, THAT, APPLY:, 1] Ratio: 0.33698125
+Box: [140, 1480, 980, 1720] Words: [ITEM, PROP, HAIL, PROP, NUM, DEDUCT, DEDUCT, FORM, TYPE, 001, $500, YES, 3, FR, MORTGAGEES, THAT, APPLY:, 1] Ratio: 0.33698125
+Box: [390, 1930, 1230, 2170] Words: [A, Dwelling, B, other, Structures, C, Personal, Property, D, Loss, of, Use] Ratio: 0.25135625
+Box: [520, 1170, 1360, 1410] Words: [ATTACHED, SCHEDULED, ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $13.00-] Ratio: 0.25968125
+Box: [960, 1410, 1800, 1650] Words: [CONST, NUM, OCCUP, PROT, TERR, YEAR, FAM, CODE, CLASS, CODE, 1950, 1, PR, 4] Ratio: 0.2080125
+Box: [960, 1480, 1800, 1720] Words: [PROT, TERR, YEAR, FAM, CODE, CLASS, CODE, 1950, 1, PR, 4] Ratio: 0.2080125
+Box: [1210, 120, 2050, 360] Words: [Homeowners, -, Standard, Renewal, Declaration] Ratio: 0.21903125

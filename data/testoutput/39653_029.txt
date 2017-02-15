@@ -1,0 +1,92 @@
+Page:1
+Box: [0, 2940, 740, 3180] Words: [PL-8682, 12-96] Ratio: 0.04170714285714286
+Box: [50, 1010, 790, 1250] Words: [JOHNSON, BANK, ISAOA, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.2037857142857143
+Box: [80, 180, 820, 420] Words: [THE, TRAVELERS, KNOXVILLE, BUSINESS, CENTER, P., 0., BOX, 59059, KNOXVILLE, TN, 37950-9059, 01228] Ratio: 0.22482857142857143
+Box: [360, 2940, 1100, 3180] Words: [12-96] Ratio: 0.015814285714285715
+Box: [480, 900, 1220, 1140] Words: [BANK] Ratio: 0.019285714285714285
+Box: [550, 0, 1290, 240] Words: [03,, 2016] Ratio: 0.030064285714285714
+Box: [640, 0, 1380, 240] Words: [2016] Ratio: 0.016392857142857143
+Box: [1140, 3030, 1880, 3270] Words: [004594/01228, F3115MMC, 8844, 05/28/16] Ratio: 0.07344285714285714
+Page:2
+Box: [0, 1010, 740, 1250] Words: [To, whom, it, may, concern:] Ratio: 0.0856
+Box: [0, 2960, 740, 3200] Words: [PL-1, 4268, 1, 0-08] Ratio: 0.03825714285714286
+Box: [60, 510, 800, 750] Words: [T02, JOHNSON, BANK, ISAOA, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.27482142857142855
+Box: [170, 0, 910, 240] Words: [Received, Fri, Jun, 03,, 2016, A, TRAVELERS, J] Ratio: 0.35427857142857144
+Box: [170, 10, 910, 250] Words: [Fri, Jun, 03,, 2016, A, TRAVELERS, J] Ratio: 0.35427857142857144
+Box: [170, 1920, 910, 2160] Words: [KNOXVILLE, TN, 37950-9059] Ratio: 0.11862142857142857
+Box: [560, 1920, 1300, 2160] Words: [TN, 37950-9059] Ratio: 0.06349285714285714
+Box: [650, 1870, 1390, 2110] Words: [37950-9059] Ratio: 0.05115
+Box: [1140, 3020, 1880, 3260] Words: [004595101228, F3115MMC, 8644, 05/2811, 8] Ratio: 0.07188571428571429
+Box: [1660, 2960, 2400, 3200] Words: [Page1, of, 1] Ratio: 0.029792857142857142
+Page:3
+Box: [0, 1660, 740, 1900] Words: [Homeowners, No., 995907043, 633, 1] Ratio: 0.17482857142857142
+Box: [0, 2990, 740, 3230] Words: [422/OCVF66] Ratio: 0.0351
+Box: [60, 1550, 800, 1790] Words: [POLICY, INFORMATION, Homeowners, Policy, No., 995907043, 633, 1] Ratio: 0.3240928571428571
+Box: [170, 0, 910, 240] Words: [Received, Fri, Jun, 03,, 2016] Ratio: 0.08793571428571428
+Box: [170, 10, 910, 250] Words: [Fri, Jun, 03,, 2016] Ratio: 0.08793571428571428
+Box: [460, 0, 1200, 240] Words: [Jun, 03,, 2016] Ratio: 0.04069285714285714
+Box: [550, 0, 1290, 240] Words: [03,, 2016] Ratio: 0.030064285714285714
+Box: [640, 0, 1380, 240] Words: [2016] Ratio: 0.016392857142857143
+Box: [1120, 460, 1860, 700] Words: [L, -.LL-., ', ', '] Ratio: 0.04007857142857143
+Box: [1220, 1840, 1960, 2080] Words: [For, Claim, Service, Call, For, Policy, Service, Call] Ratio: 0.19114285714285714
+Box: [1220, 1990, 1960, 2230] Words: [For, Policy, Service, Call] Ratio: 0.1004
+Box: [1250, 820, 1990, 1060] Words: [1015, CORPORATE, SQ, DR, STE, 300, ST, LOUIS., MO, 63132] Ratio: 0.23142142857142858
+Box: [1320, 1380, 2060, 1620] Words: [LOAN] Ratio: 0.12060714285714286
+Box: [1330, 1100, 2070, 1340] Words: [Mortgagee, Name, and, Address, 1.JOHNSON, BANK, ISAOA, PO, BOX, 39653] Ratio: 0.3094571428571429
+Box: [1400, 480, 2140, 720] Words: [', ', '] Ratio: 1.7857142857142857E-4
+Box: [1400, 600, 2140, 840] Words: [Agent, Information, LARSON, FINANCIAL, GROUP] Ratio: 0.20991428571428572
+Box: [1430, 480, 2170, 720] Words: [', '] Ratio: 1.1428571428571428E-4
+Box: [1630, 0, 2370, 240] Words: [., TRAVELERS, J] Ratio: 0.2621428571428571
+Box: [1690, 2910, 2430, 3150] Words: [Continued, on, next, page] Ratio: 0.05592142857142857
+Box: [1740, 880, 2480, 1120] Words: [63132] Ratio: 0.02605714285714286
+Box: [0, 0, 840, 240] Words: [017140, Received, Fri, Jun, 03,, 2016] Ratio: 0.09905
+Box: [0, 10, 840, 250] Words: [017140, Fri, Jun, 03,, 2016] Ratio: 0.09905
+Box: [150, 1050, 990, 1290] Words: [The, Residence, premises, is, located, at, 1586, RUSTIC, WAY, GREEN, BAY, WI, 54313-6186] Ratio: 0.307875
+Box: [1390, 1610, 2230, 1850] Words: [Policy, Period, 05/27/16, -, 05/27/17, 12:01, AM., Standard, Time, at, the, residence, premises] Ratio: 0.300275
+Page:4
+Box: [0, 2990, 740, 3230] Words: [422/00VF66] Ratio: 0.033985714285714286
+Box: [1320, 1890, 2060, 2130] Words: [PeriIs), .....................] Ratio: 0.07865714285714286
+Box: [1350, 2220, 2090, 2460] Words: [LIMIT] Ratio: 0.027885714285714285
+Box: [1380, 2110, 2120, 2350] Words: [of, the, 1055, over, the, stated] Ratio: 0.11614285714285714
+Box: [1450, 2110, 2190, 2350] Words: [the, 1055, over, the, stated] Ratio: 0.10494285714285714
+Box: [1550, 2110, 2290, 2350] Words: [1055, over, the, stated] Ratio: 0.08871428571428572
+Box: [1610, 0, 2350, 240] Words: [A, TRAVELERS, J] Ratio: 0.2685
+Box: [1670, 2900, 2410, 3140] Words: [Continued, on, next, page] Ratio: 0.05757857142857143
+Box: [1680, 2110, 2420, 2350] Words: [over, the, stated] Ratio: 0.06655714285714286
+Box: [1700, 2210, 2440, 2450] Words: [LIMIT, PREMIUM] Ratio: 0.06795714285714285
+Box: [1700, 3000, 2440, 3240] Words: [Continued, on, next, page, PL-12630, 2-11, Mortgagee, Copy, page, 2, of, 4] Ratio: 0.17531428571428573
+Box: [110, 2110, 950, 2350] Words: [In, case, of, loss, under, section, deductible, is, covered.] Ratio: 0.20860625
+Box: [130, 1160, 970, 1400] Words: [Section, II, -, Liability, Coverages, E, -, Persona], LiabiIity, (Bodin, F, -, MedicaI, Payments, to, Others] Ratio: 0.3935875
+Box: [170, 2110, 1010, 2350] Words: [In, case, of, loss, under, section, I., deductible, is, covered.] Ratio: 0.2167
+Box: [1250, 2110, 2090, 2350] Words: [part, of, the, 1055, over, the, stated] Ratio: 0.12478125
+Page:5
+Box: [0, 1710, 740, 1950] Words: [For, Your, Information] Ratio: 0.12760714285714286
+Box: [0, 2990, 740, 3230] Words: [422/0CVF66] Ratio: 0.0351
+Box: [150, 1500, 890, 1740] Words: [*Noﬂm, The, additional, cost, "Included", is, contained, in] Ratio: 0.24215714285714285
+Box: [170, 0, 910, 240] Words: [Received, Fri, Jun, 03,, 2016] Ratio: 0.08793571428571428
+Box: [170, 10, 910, 250] Words: [Fri, Jun, 03,, 2016] Ratio: 0.08793571428571428
+Box: [450, 1150, 1190, 1390] Words: [(10-06), Homeowners, 3, Special, (10-12), Special, Provisions, -] Ratio: 0.30020714285714284
+Box: [460, 0, 1200, 240] Words: [Jun, 03,, 2016] Ratio: 0.04069285714285714
+Box: [550, 0, 1290, 240] Words: [03,, 2016] Ratio: 0.030064285714285714
+Box: [640, 0, 1380, 240] Words: [2016] Ratio: 0.016392857142857143
+Box: [1170, 1150, 1910, 1390] Words: [Form, Wisconsin] Ratio: 0.07384285714285714
+Box: [1350, 880, 2090, 1120] Words: [Protection..., 25%] Ratio: 0.08828571428571429
+Box: [1620, 0, 2360, 240] Words: [-, TRAVELERS, J] Ratio: 0.2628785714285714
+Box: [1690, 880, 2430, 1120] Words: [25%] Ratio: 0.01697142857142857
+Box: [1690, 2900, 2430, 3140] Words: [Continued, on, next, page] Ratio: 0.05612142857142857
+Box: [1720, 480, 2460, 720] Words: [LIMIT, PREMIUM] Ratio: 0.06772857142857143
+Box: [0, 0, 840, 240] Words: [017140, Received, Fri, Jun, 03,, 2016] Ratio: 0.09905
+Box: [0, 10, 840, 250] Words: [017140, Fri, Jun, 03,, 2016] Ratio: 0.09905
+Box: [150, 1500, 990, 1740] Words: [*Noﬂm, The, additional, cost, for, "Included", is, contained, in, the] Ratio: 0.2392875
+Box: [480, 1500, 1320, 1740] Words: [additional, cost, for, any, optional, is, contained, in, the, Total, Policy] Ratio: 0.2736625
+Box: [640, 1150, 1480, 1390] Words: [Homeowners, 3, Special, Form, Special, Provisions, -, Wisconsin] Ratio: 0.24631875
+Box: [1300, 1490, 2140, 1730] Words: [endorsement, or, coverage, shown, as, Premium, amount.] Ratio: 0.19683125
+Page:6
+Box: [0, 2990, 740, 3230] Words: [422/OCVF66] Ratio: 0.0351
+Box: [1250, 600, 1990, 840] Words: [is, important, that, you, inform] Ratio: 0.14491428571428572
+Box: [1570, 600, 2310, 840] Words: [that, you, inform, your] Ratio: 0.09542857142857143
+Box: [1600, 0, 2340, 240] Words: [A, TRAVELERS, J] Ratio: 0.2701142857142857
+Box: [1690, 2990, 2430, 3230] Words: [PL-12630, 2-11, Mortgagee, Copy, page, 4, of, 4] Ratio: 0.11721428571428572
+Box: [1700, 600, 2440, 840] Words: [you, inform, your] Ratio: 0.07303571428571429
+Box: [160, 490, 1000, 730] Words: [For, Your, Information, '(continued)] Ratio: 0.22595625
+Box: [1320, 600, 2160, 840] Words: [important, that, you, inform, your] Ratio: 0.138

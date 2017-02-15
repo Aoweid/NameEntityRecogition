@@ -1,0 +1,7 @@
+Box: [90, 2780, 930, 3020] Words: [00662-87221, HEATHER, L, SCHIMMERS, 1408, SOUTHFIELD, DR, MENASHA, WI, 54952-9490] Ratio: 0.35799375
+Box: [160, 2450, 1000, 2690] Words: [\/, Badger, Mutual, INSURANCE] Ratio: 0.45625625
+Box: [160, 2470, 1000, 2710] Words: [\/, Badger, INSURANCE] Ratio: 0.45625625
+Box: [1150, 2770, 1990, 3010] Words: [JOHNSON, BANK, ISAOA, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.2334625
+Box: [1260, 620, 2100, 860] Words: [Billing, Name, and, Address, HEATHER, L, SCHIMMERS, 1408, SOUTHFIELD, DR, MENASHA, WI, 54952-9490] Ratio: 0.38054375
+Box: [1290, 920, 2130, 1160] Words: [Loan, Number:, 3290130679, Amount, Due:, $935.00] Ratio: 0.26911875
+Box: [1380, 410, 2220, 650] Words: [This, is, a, Mortgage, Bill, Property, Policy, POLICY, RENEWAL] Ratio: 0.301725

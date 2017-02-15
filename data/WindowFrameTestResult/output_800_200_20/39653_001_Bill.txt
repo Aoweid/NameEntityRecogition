@@ -1,0 +1,4 @@
+Box: [0, 550, 840, 790] Words: [Mail, To:, JOHNSON, BANK, PO, BOX, 39653, SOLON, OH, 44139] Ratio: 0.2108625
+Box: [10, 70, 850, 310] Words: [’1':, Rural, Mutual, Insurance, Company] Ratio: 0.415525
+Box: [1000, 1180, 1840, 1420] Words: [Account, DOUG, GRAY, Holder:, 1740, S, 70TH, STREET, WEST, ALLIS, WI, 53214] Ratio: 0.26005
+Box: [1430, 530, 2270, 770] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.267425

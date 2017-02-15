@@ -1,0 +1,6 @@
+Page:1
+Box: [0, 1090, 740, 1330] Words: [OTHER, COVERAGES, LIMIT, wBIOLOGICAL, DETR/DAMAGE, CLEAN, UP, $5,000, -FIRE, DEPT., SERV., CHARGES, $500, 'CREDIT, CARD-FORGERY, $1.000, AND, ELEC., FUNDS, TRANS.] Ratio: 0.18825
+Box: [480, 1020, 1220, 1260] Words: [LIMIT, $5,000, $500, $1.000] Ratio: 0.043757142857142856
+Box: [810, 300, 1550, 540] Words: [LOCATION, OF, DESCRIBED, PROPERTY, ADDITIONAL, INSURED, 623, PARK, AVE, LOCK, HAVEN, NOT, APPLICABLE, PA, 17745-3878] Ratio: 0.14180714285714285
+Box: [410, 290, 1250, 530] Words: [NAMED, INSURED, AND, ADDRESS, LOCATION, OF, DESCRIBED, PROPERTY, JENNIFER, N, CARUSO, 623, PARK, AVE, 628, PARK, AVE, LOCK, HAVEN, LOCK, HAVEN, PA, 17745-3878, I, PA, 17745-5873] Ratio: 0.171825
+Box: [680, 1290, 1520, 1530] Words: [SECTION, II, EXCEPTIONS:, The, residence, premises, is, the, only, premises, owned, or, held, for, rental, by, the, named, insured, or, spouse., other, than, business, property,, and, ‘I-s, used, soIe'ly, for, private, residentiaT, purposes., Exceptions,, if, any:, NONE] Ratio: 0.27729375

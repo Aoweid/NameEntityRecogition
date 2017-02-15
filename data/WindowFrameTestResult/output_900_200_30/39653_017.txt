@@ -1,0 +1,2 @@
+Box: [910, 1940, 1870, 2200] Words: [MANAV, ANAND, 6009, E, DANBURY, RD, SCOTTSDALE, AZ, 85254-6445] Ratio: 0.21793333333333334
+Box: [1410, 80, 2370, 340] Words: [v@Allstate:, You're, in, good, hands.] Ratio: 0.5917166666666667

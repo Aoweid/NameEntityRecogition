@@ -1,0 +1,2 @@
+Page:1
+Box: [1770, 310, 2510, 550] Words: [This, Is, not, an, Invoice/Bill] Ratio: 0.05228571428571428

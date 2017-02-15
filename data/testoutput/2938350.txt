@@ -1,0 +1,13 @@
+Page:1
+Box: [0, 320, 740, 560] Words: [Policy, Number:, 998222227, First, Mortgagee, Loan, Number, :, 002265043865, Insured's, Information, JAMES, AND, MARJORIE, E, TAUBERT, 1781, US, ROUTE, 6, W, ROULETTE, ,, PA, 16746] Ratio: 0.2699714285714286
+Box: [20, 960, 760, 1200] Words: [Policy, Limit, of, Liability, Section, I, Dwelling, Protection, Total, Annual, Policy, Premium, Replacement, Cost, up, to, the, Dwelling, Covg, Limits, Personal, Property, Reimbursement] Ratio: 0.2635071428571429
+Box: [190, 1820, 930, 2060] Words: [Page, 1, of, 2] Ratio: 0.016335714285714287
+Box: [750, 880, 1490, 1120] Words: [$309993, $649.81] Ratio: 0.027307142857142856
+Box: [750, 1050, 1490, 1290] Words: [$649.81] Ratio: 0.013357142857142857
+Page:2
+Box: [0, 280, 740, 520] Words: [Policy, Number:, 998222227, Date:, 06/03/2016, Countersigned, at:, BENSALEM] Ratio: 0.11997142857142858
+Box: [0, 410, 740, 650] Words: [Countersigned, at:, BENSALEM] Ratio: 0.05297142857142857
+Box: [190, 1690, 930, 1930] Words: [Page, 2, of, 2] Ratio: 0.016385714285714285
+Box: [270, 530, 1010, 770] Words: [Agent, Signature] Ratio: 0.028628571428571427
+Box: [600, 530, 1340, 770] Words: [ , Agent, Signature] Ratio: 0.028628571428571427
+Box: [630, 310, 1370, 550] Words: [Authorized, Agent:, WILLIAM, NOVICK, 847, BRISTOL, PIKE, BENSALEM, ,, P, ‘, 215-621-8288,    ] Ratio: 0.33727142857142856

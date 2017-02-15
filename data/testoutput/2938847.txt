@@ -1,0 +1,90 @@
+Page:1
+Box: [930, 1090, 1670, 1330] Words: [El, PLEASE, REPLY, II], PLEASE, RECYCLE] Ratio: 0.04792857142857143
+Page:2
+Box: [0, 510, 740, 750] Words: [John, &, Darla, l-l, Mclvlulle, Georgetown, Carpets, 1319, Benner, Pike, State, College,, PA, 16801-7326,  ] Ratio: 0.1765357142857143
+Box: [0, 710, 740, 950] Words: [Policy, Period:, 03/23/2016, to, 03/23/2017] Ratio: 0.06967142857142856
+Box: [0, 760, 740, 1000] Words: [Policy, Period:, 03/23/2016, to, 03/23/2017, Business, Description:, Floor, Covering, Store] Ratio: 0.15174285714285715
+Box: [0, 810, 740, 1050] Words: [Policy, Period:, 03/23/2016, to, 03/23/2017, Business, Description:, Floor, Covering, Store, Form, of, Business:, PARTNERSHIP] Ratio: 0.21204285714285714
+Box: [570, 510, 1310, 750] Words: [TURLEY, INSURANCE, AGENCY, 123, W, FOURTH, STREET, BRIDGEPORT., PA, 19405] Ratio: 0.18803571428571428
+Box: [800, 710, 1540, 950] Words: [Agency, Code:, 379172, Phone, Number:, (610)272—0495, at, 12:01, AM, Standard, Time, at, your, mailing, address] Ratio: 0.18025
+Box: [880, 70, 1620, 310] Words: [BOPOOOOOOESSQOA, StarAdvaritage"h, Bumﬁwmﬁpmgmm] Ratio: 0.14482142857142857
+Box: [40, 90, 880, 330] Words: [we", I, ”*, HarleyvaIIe, Preferred, Insurance, Company, *4, 355M, I, A, Harleyswlle, Gondjmpfrle, m, Ammo“, WWW'”“”°V5Vi”°“"°”P'°°m] Ratio: 0.20030625
+Page:3
+Box: [0, 1300, 740, 1540] Words: [isIHHEIIIPIi-WIIAIIEWE, ,, Premises, Building, No., No., Coverage,  ] Ratio: 0.11554285714285714
+Box: [0, 1810, 740, 2050] Words: [BOP~7034(Ed.4—09)] Ratio: 0.048214285714285716
+Box: [80, 690, 820, 930] Words: [ , II‘IIIIIEIIIAIIA‘IINIIIIIIIIA‘IIII, WWW, Premises, Building, No., No., Occupancy, 001, 001, FLOOR, COVERING, STORE, WOOD, OR, CERAMIC, TILE] Ratio: 0.2317857142857143
+Box: [410, 1390, 1150, 1630] Words: [Coverage] Ratio: 0.017085714285714287
+Box: [440, 90, 1180, 330] Words: [Herieysvllle, Preferred, insurance, Company, 355, Maple, Avenue, Hadeysvllle,, PA, 194OB~2297, WM-NBVIEI'ainieerOUP-com] Ratio: 0.11560714285714285
+Box: [720, 1300, 1460, 1540] Words: [I, I, Limit, of, Insurance] Ratio: 0.023485714285714287
+Box: [800, 660, 1540, 900] Words: [ , “Aggil‘IPPIII‘El-IAS, C0015“, II, 1‘:, Construction, PC, Class, Code, FRAME, 5, 57134] Ratio: 0.12626428571428572
+Box: [800, 690, 1540, 930] Words: [“Aggil‘IPPIII‘El-IAS, C0015“, II, 1‘:, Construction, PC, Class, Code, FRAME, 5, 57134] Ratio: 0.12626428571428572
+Box: [820, 1840, 1560, 2080] Words: [Page, 107, 1, issued:, 12/28/2015] Ratio: 0.04840714285714286
+Box: [860, 200, 1600, 440] Words: [Policy, Number:, BOP00000023590A, Policy, Period:, 03/23/2016, to, 03/23/2017, RENEWAL, CERTIFICATE] Ratio: 0.16804285714285713
+Box: [880, 0, 1620, 240] Words: [BOP00000023590A] Ratio: 0.022707142857142856
+Box: [40, 100, 880, 340] Words: [I?, 0, ‘, Herieysvllle, Preferred, insurance, Company, H, arleysv‘”, I8, 355, Maple, Avenue, Hadeysvllle,, PA, 194OB~2297, Goal/people, m, Imam”, WM-NBVIEI'ainieerOUP-com] Ratio: 0.23296875
+Page:4
+Box: [0, 1810, 740, 2050] Words: [cu.7oos, (Ed., 4-09)] Ratio: 0.03641428571428571
+Box: [20, 570, 760, 810] Words: [001, ALL, 1319, Benner, Pike, State, College,, PA, 16301-7326] Ratio: 0.09427142857142858
+Box: [250, 570, 990, 810] Words: [ALL, 1319, Benner, Pike, State, College,, PA, 16301-7326] Ratio: 0.08842142857142857
+Box: [440, 80, 1180, 320] Words: [I-Iericysviiic, Preferred, Insurance, Company, 355, Maple, Avenue, HerIeerIIIe,, PA, 10433-2297, www.i1erlcysviilcgroup.com] Ratio: 0.11498571428571429
+Box: [600, 420, 1340, 660] Words: [,I, #99017?”, SCHIEPIILIE, I, I, I] Ratio: 0.1139
+Box: [810, 1840, 1550, 2080] Words: [Page, 1, of, 1, Issued:, 12/23/2015] Ratio: 0.046271428571428574
+Box: [870, 200, 1610, 440] Words: [Policy, Number:, BOP00000023590A, Policy, Period:, 03/23/2015, to, 03/23/2017, RENEWAL, CERTIFICATE] Ratio: 0.16939285714285715
+Box: [880, 0, 1620, 240] Words: [BOP00000023590A] Ratio: 0.022828571428571427
+Box: [40, 90, 880, 330] Words: [a?, 0, ‘“, n., gt, I-Iericysviiic, Preferred, Insurance, Company, Harle, VI, I, [e, 355, Maple, Avenue, HerIeerIIIe,, PA, 10433-2297, Grmtljmnplict, tv‘l, Imam”, www.i1erlcysviilcgroup.com] Ratio: 0.1959625
+Page:5
+Box: [0, 650, 740, 890] Words: [Northwest, Savings, Bank, ISAOA, 1325003526, PO, Box, 39545, Solon,, OH, 44139—0545, UNITED, STATES, PA, -, Loc#1, Bid, #1] Ratio: 0.18860714285714286
+Box: [0, 800, 740, 1040] Words: [PA, -, Loc#1, Bid, #1] Ratio: 0.023707142857142857
+Box: [0, 1810, 740, 2050] Words: [GU-7007, (Ed., 4-09)] Ratio: 0.036578571428571426
+Box: [400, 420, 1140, 660] Words: [MORTGAGEE, SCHEDULE] Ratio: 0.08601428571428571
+Box: [420, 30, 1160, 270] Words: [Harleyevllle, Preferred, Insurance, Comm/IV, 3""M, I, A, .] Ratio: 0.04668571428571429
+Box: [440, 80, 1180, 320] Words: [Harleyevllle, Preferred, Insurance, Comm/IV, 3""M, I, A, ., ill/\MN.I‘IEIIIEyEVIIIEgroup.com] Ratio: 0.07776428571428572
+Box: [810, 1840, 1550, 2080] Words: [Page, 1, of, 1, Issued:, 12/23/2015] Ratio: 0.04687857142857143
+Box: [880, 0, 1620, 240] Words: [SOP00000023590A] Ratio: 0.022707142857142856
+Box: [880, 200, 1620, 440] Words: [Policy, Number:, BOP00000023590A, Policy, Period:, 03/23/2016, to, 03/23/2017, RENEWAL, CERTIFICATE] Ratio: 0.16747857142857142
+Box: [40, 100, 880, 340] Words: [a;, M, 'R, w, ~, Harleyevllle, Preferred, Insurance, Comm/IV, 4., 3""M, I, A, ., Harley/Willa, Goat/[94mg, m, Irmmf, ill/\MN.I‘IEIIIEyEVIIIEgroup.com] Ratio: 0.19659375
+Page:6
+Box: [0, 510, 740, 750] Words: [Fairbrook, Construction] Ratio: 0.03645
+Box: [0, 1810, 740, 2050] Words: [GU-7008(EdI4-09)] Ratio: 0.041428571428571426
+Box: [420, 420, 1160, 660] Words: [NAMED, INSURED, SCHEDULE] Ratio: 0.10226428571428571
+Box: [440, 90, 1180, 330] Words: [Herieysvllle, Preferred, Insurance, Company, 355, Maple, Avenue, Harleyevllle,, PA, 19430-2297, WW-harlaysvllloqraupcnm] Ratio: 0.11585
+Box: [820, 1830, 1560, 2070] Words: [Page, 1, of, 1, issued:, 12/28/2015] Ratio: 0.04435
+Box: [880, 0, 1620, 240] Words: [BOP00000023590A] Ratio: 0.022828571428571427
+Box: [880, 200, 1620, 440] Words: [Policy, Number:, BOP00000023590A, Policy, Period:, 03/23/2016, to, 03/23/2017, RENEWAL, CERTIFICATE] Ratio: 0.17429285714285714
+Box: [40, 100, 880, 340] Words: [5‘:, PI, *, 1, \, Herieysvllle, Preferred, Insurance, Company, HarIBYSﬁlle, 355, Maple, Avenue, Harleyevllle,, PA, 19430-2297, Goad, pen/:10, no, lnmw', WW-harlaysvllloqraupcnm] Ratio: 0.23959375
+Page:7
+Box: [0, 640, 740, 880] Words: [001, 001, P-2] Ratio: 0.0177
+Box: [0, 1800, 740, 2040] Words: [GU-7033, (Ed., 4-12)] Ratio: 0.03385
+Box: [40, 540, 780, 780] Words: [Prem., Bldg., Protective, Safeguards, No., No., Symbols, Applicable, 001, 001, P-2] Ratio: 0.14145714285714286
+Box: [210, 640, 950, 880] Words: [001, P-2] Ratio: 0.01185
+Box: [230, 540, 970, 780] Words: [Bldg., Protective, Safeguards, No., Symbols, Applicable, 001, P-2] Ratio: 0.11895714285714286
+Box: [310, 640, 1050, 880] Words: [P-2] Ratio: 0.006
+Box: [440, 100, 1180, 340] Words: [Harleysvllle, Preferred, Insurance, Company, 355, Maple, Avenue, HerlcysviiicI, PA, 19430-2297, mthadeyvaiiegroupIcom] Ratio: 0.1155
+Box: [760, 540, 1500, 780] Words: [Description, Of, “P-S", If, Applicable:] Ratio: 0.06835
+Box: [850, 1830, 1590, 2070] Words: [Page, 1, of, 1, issueds12I28/2015] Ratio: 0.049414285714285716
+Box: [880, 0, 1620, 240] Words: [BOP00000023590A] Ratio: 0.022828571428571427
+Box: [880, 250, 1620, 490] Words: [Policy, Number:, BOP00000023590A, Policy, Period:, 03/23/2016to, 03/23/2017, RENEWAL, CERTIFICATE] Ratio: 0.16667142857142858
+Box: [50, 140, 890, 380] Words: [It“, “, Harieysvilie, Grind, [Imp/n, m, Army", a, NniioandI-i, Insumm-Iur, coinnnnr, Harleysvllle, Preferred, Insurance, Company, 355, Maple, Avenue, HerlcysviiicI, PA, 19430-2297, mthadeyvaiiegroupIcom] Ratio: 0.26329375
+Page:8
+Box: [0, 1810, 740, 2050] Words: [GU-7004, (Ed., 4-09)] Ratio: 0.03402857142857143
+Box: [440, 90, 1180, 330] Words: [Herieyevllle, Preferred, Insurance, Company, 355, Maple, Avenue, I'IrflI'IQI/QVIIIE,, PA, 19435—2297, WIMN.Ilerleyevlllegroupcom] Ratio: 0.11567142857142858
+Box: [820, 1840, 1560, 2080] Words: [Page, 1, of, ‘l, issued:, 12/28/2015] Ratio: 0.04629285714285714
+Box: [850, 570, 1590, 810] Words: [“, ", ,, ., ., i, ., 1] Ratio: 0.0010642857142857142
+Box: [880, 0, 1620, 240] Words: [BOP00000023590A] Ratio: 0.022828571428571427
+Box: [880, 210, 1620, 450] Words: [Policy, Number:, BOP00000023590A, Policy, Period:, 03/23/2016, to, 03/23/2017, RENEWAL, CERTIFICATE] Ratio: 0.17197857142857143
+Box: [940, 570, 1680, 810] Words: [., ., i, ., 1] Ratio: 3.642857142857143E-4
+Box: [40, 100, 880, 340] Words: [nah, *, w, u, Harleysv’ilie, ($0M!, [maple, m, [m, mua, Herieyevllle, Preferred, Insurance, Company, 355, Maple, Avenue, I'IrflI'IQI/QVIIIE,, PA, 19435—2297, WIMN.Ilerleyevlllegroupcom] Ratio: 0.236825
+Page:9
+Box: [0, 1810, 740, 2050] Words: [GU-TOOQ, (Ed., 4.09)] Ratio: 0.03539285714285714
+Box: [440, 90, 1180, 330] Words: [Herleyevllle, Preferred, Insurance, Compeny, 355, Maple, Avenue, Herleyevllle., PA, 19433-2297, www.harleysvillcqroup,com] Ratio: 0.11571428571428571
+Box: [830, 1830, 1570, 2070] Words: [Page, 1, of, 1, Issued:, 12/28/2015] Ratio: 0.04846428571428572
+Box: [880, 0, 1620, 240] Words: [EOPDOODDOZSSQOA] Ratio: 0.025514285714285715
+Box: [880, 200, 1620, 440] Words: [Policy, Number:, BOP00000023590A, Policy, Period:, 03/23/2016, to, 03/23/2017, RENEWAL, CERTIFICATE] Ratio: 0.1690357142857143
+Box: [40, 100, 880, 340] Words: [a?“, Harieysvillioi, Goat/people, no, [mt/w", Herleyevllle, Preferred, Insurance, Compeny, 355, Maple, Avenue, Herleyevllle., PA, 19433-2297, www.harleysvillcqroup,com] Ratio: 0.282125
+Page:10
+Box: [0, 50, 740, 290] Words: [POLICY, NUMBER;, BOPOOOOOOZSSQOA] Ratio: 0.06521428571428571
+Box: [380, 1910, 1120, 2150] Words: [©, Insurance, Services, Ofﬁce., Inc,, 2015] Ratio: 0.06462142857142857
+Box: [880, 70, 1620, 310] Words: [EOP00000023590A, BUSINESSOWNERS, BP, 05, 15, O1, 15] Ratio: 0.08562857142857143
+Page:11
+Box: [390, 1840, 1130, 2080] Words: [©, insurance, Services, Office,, Inc.., 2015] Ratio: 0.06475714285714286
+Box: [880, 0, 1620, 240] Words: [BOPOOOOODZSSQOA] Ratio: 0.02835

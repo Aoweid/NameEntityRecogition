@@ -1,0 +1,5 @@
+Box: [0, 70, 960, 330] Words: [’1':, Rural, Mutual, Insurance, Company] Ratio: 0.36935555555555555
+Box: [20, 1180, 980, 1440] Words: [Your, HUDSON, AGENCY, &, ASSOCIATES, Agent:, 2273, MCCOY, RD, SUN, PRAIRIE, WI, 53590, OFFICE:, 608-828-5751] Ratio: 0.36291666666666667
+Box: [950, 1180, 1910, 1440] Words: [Account, DOUG, GRAY, Holder:, 1740, S, 70TH, STREET, WEST, ALLIS, WI, 53214] Ratio: 0.23115555555555556
+Box: [1320, 520, 2280, 780] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.23771111111111112
+Box: [1510, 2060, 2470, 2320] Words: [ , |, Total, |, $191.00,  ] Ratio: 0.23324444444444445

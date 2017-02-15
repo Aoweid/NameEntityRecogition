@@ -1,0 +1,63 @@
+Page:1
+Box: [0, 330, 740, 570] Words: [NATALIE, M, RUSCHELL, 308, EATON, 5T, PO, BOX, 577, MIDWAY,, PA, 15050] Ratio: 0.10339285714285715
+Box: [0, 1320, 740, 1560] Words: [Sincerely,, Loan, Servicing, Northwest, Bank, Fax:, 440-505-6050] Ratio: 0.11342142857142858
+Box: [0, 1380, 740, 1620] Words: [Loan, Servicing, Northwest, Bank, Fax:, 440-505-6050] Ratio: 0.09085714285714286
+Box: [0, 1440, 740, 1680] Words: [Northwest, Bank, Fax:, 440-505-6050] Ratio: 0.06075
+Box: [0, 1490, 740, 1730] Words: [Fax:, 440-505-6050] Ratio: 0.03315
+Box: [0, 1500, 740, 1740] Words: [] Ratio: 0.03315
+Box: [490, 70, 1230, 310] Words: [[IJIUCJFTTPJVVEEBT', ‘, SAVINGS, BANK, Where, People, Make, The, Difference.] Ratio: 0.45371428571428574
+Box: [490, 140, 1230, 380] Words: [‘, SAVINGS, BANK, Where, People, Make, The, Difference.] Ratio: 0.45371428571428574
+Box: [550, 320, 1290, 560] Words: [3E, ((3?, E!, 31%;?, 'm109mm,  ] Ratio: 0.1548857142857143
+Box: [890, 320, 1630, 560] Words: [3E, ((3?, E!, 31%;?, 05/05/2016, 'm109mm,  ] Ratio: 0.17157857142857144
+Box: [950, 320, 1690, 560] Words: [3E, ((3?, E!, 31%;?, 05/05/2016, 'm109mm] Ratio: 0.17157857142857144
+Page:2
+Box: [0, 530, 740, 770] Words: [Item, 2:, Coverage, Period, From, To, Effective, Date, Expire, Date, 03/04/2015, -, 03/04/2017] Ratio: 0.1637357142857143
+Box: [0, 1030, 740, 1270] Words: [Item, 4:, Property, Address:, (mailing, address, may, differ)] Ratio: 0.10388571428571429
+Box: [0, 1110, 740, 1350] Words: [Item, 4:, Property, Address:, (mailing, address, may, differ), 341, PARIS, COLLIERS, FtD, BURGETI'STOWN,, PA, 15021] Ratio: 0.2065142857142857
+Box: [0, 1170, 740, 1410] Words: [4:, Address:, (mailing, address, may, differ), 341, PARIS, COLLIERS, FtD, BURGETI'STOWN,, PA, 15021] Ratio: 0.2065142857142857
+Box: [30, 1830, 770, 2070] Words: [0110-4269, (5/92), Issued, by:, Loan, Protector, Insurance, Services, (440)498-9367] Ratio: 0.14500714285714286
+Box: [60, 870, 800, 1110] Words: [ ,  , Hazard, Commercial, $185,704.00, 0TH] Ratio: 0.06877142857142857
+Box: [60, 920, 800, 1160] Words: [ , Commercial, $185,704.00, 0TH] Ratio: 0.05587142857142857
+Box: [60, 930, 800, 1170] Words: [ , 0TH] Ratio: 0.05587142857142857
+Box: [130, 870, 870, 1110] Words: [Hazard, Commercial, $185,704.00, 0TH] Ratio: 0.06877142857142857
+Box: [130, 920, 870, 1160] Words: [Commercial, $185,704.00, 0TH] Ratio: 0.05587142857142857
+Box: [130, 930, 870, 1170] Words: [0TH] Ratio: 0.05587142857142857
+Box: [440, 870, 1180, 1110] Words: [Tax, $185,704.00, Stamping, Fee] Ratio: 0.06698571428571429
+Box: [440, 930, 1180, 1170] Words: [Stamping, Fee, Total, Amount] Ratio: 0.08974285714285714
+Box: [450, 810, 1190, 1050] Words: [Amount, 01, Insurance, Premium/Fees, Tax, $185,704.00, Stamping, Fee] Ratio: 0.13307857142857143
+Box: [470, 760, 1210, 1000] Words: [., ., ., .., .., Amount, 01, Insurance, Premium/Fees, Tax, $185,704.00, Stamping, Fee] Ratio: 0.1341642857142857
+Box: [490, 990, 1230, 1230] Words: [Total, Amount] Ratio: 0.02980714285714286
+Box: [720, 270, 1460, 510] Words: [., Manages, Name, &, Malling, Address, Northwest, Bank, ., P.O., Box, 1793, Warren,, PA, 16365] Ratio: 0.17047857142857142
+Box: [720, 290, 1460, 530] Words: [., Manages, Name, &, Malling, Address, Northwest, Bank, ., P.O., Box, 1793, Warren,, PA, 16365,  ] Ratio: 0.17047857142857142
+Box: [720, 320, 1460, 560] Words: [., Manages, Name, &, Malling, Address, Northwest, Bank, ., P.O., Box, 1793, Warren,, PA, 16365,  ,  ] Ratio: 0.17047857142857142
+Box: [780, 870, 1520, 1110] Words: [Tax, $0.00, Stamping, Fee, $0.00] Ratio: 0.06080714285714286
+Box: [780, 990, 1520, 1230] Words: [Total, Amount, $1,968.00] Ratio: 0.05123571428571429
+Box: [820, 270, 1560, 510] Words: [., Manages, Name, &, Malling, Address, Northwest, Bank, P.O., Box, 1793, Warren,, PA, 16365] Ratio: 0.1704142857142857
+Box: [820, 290, 1560, 530] Words: [., Manages, Name, &, Malling, Address, Northwest, Bank, P.O., Box, 1793, Warren,, PA, 16365,  ] Ratio: 0.1704142857142857
+Box: [840, 810, 1580, 1050] Words: [Premium/Fees, $1,968.00, Tax, $0.00, Stamping, Fee, $0.00] Ratio: 0.11013571428571428
+Box: [840, 820, 1580, 1060] Words: [$1,968.00, Tax, $0.00, Stamping, Fee, $0.00] Ratio: 0.11013571428571428
+Box: [860, 760, 1600, 1000] Words: [.., Premium/Fees, $1,968.00, Tax, $0.00, Stamping, Fee, $0.00] Ratio: 0.11035
+Box: [880, 530, 1620, 770] Words: [Mortgagee, Protection, M-1015304, Mortgagee‘s, Policy, Number:, MHLF‘00000300, Mortgage, Agreement:, 838501, 0155] Ratio: 0.22629285714285716
+Box: [880, 550, 1620, 790] Words: [ , Mortgagee, Protection, M-1015304, Mortgagee‘s, Policy, Number:, MHLF‘00000300, Mortgage, Agreement:, 838501, 0155] Ratio: 0.22629285714285716
+Box: [880, 590, 1620, 830] Words: [Mortgagee, Protection, M-1015304, Mortgagee‘s, Policy, Number:, MHLF‘00000300, Mortgage, Agreement:, 838501, 0155, ..] Ratio: 0.22650714285714285
+Box: [880, 650, 1620, 890] Words: [Number:, MHLF‘00000300, Mortgage, Agreement:, 838501, 0155, .., Premium/Fees, $1,968.00] Ratio: 0.20892857142857144
+Box: [940, 650, 1680, 890] Words: [Number:, MHLF‘00000300, Mortgage, Agreement:, 838501, 0155, Premium/Fees, $1,968.00] Ratio: 0.2087142857142857
+Box: [40, 760, 880, 1000] Words: [ , Item, 3;, ., .., ., ., ., ., .., Coverage, Type, Amount, 01, Insurance, Hazard, Commercial, $185,704.00] Ratio: 0.13005
+Box: [60, 530, 900, 770] Words: [Item, 2:, Coverage, Period, From, To, Term, Effective, Date, Expire, Date, Months, 03/04/2015, -, 03/04/2017, 12] Ratio: 0.16763125
+Box: [90, 530, 930, 770] Words: [Item, 2:, Coverage, Period,  ,  , From, To, Term, Effective, Date, Expire, Date, Months, 03/04/2015, -, 03/04/2017, 12] Ratio: 0.16763125
+Box: [120, 760, 960, 1000] Words: [ , Item, 3;, ., .., ., ., ., ., .., .., Coverage, Type, Amount, 01, Insurance, Hazard, Commercial, $185,704.00] Ratio: 0.1302375
+Box: [130, 760, 970, 1000] Words: [Item, 3;, ., .., ., ., ., ., .., .., Coverage, Type, Amount, 01, Insurance, Hazard, Commercial, $185,704.00] Ratio: 0.1302375
+Box: [700, 530, 1540, 770] Words: [Term, Mortgagee, Protection, M-1015304, Months, Mortgagee‘s, Policy, Number:, MHLF‘00000300, 12, Mortgage, Agreement:, 838501, 0155] Ratio: 0.22236875
+Box: [700, 550, 1540, 790] Words: [ ,  , Term, Mortgagee, Protection, M-1015304, Months, Mortgagee‘s, Policy, Number:, MHLF‘00000300, 12, Mortgage, Agreement:, 838501, 0155] Ratio: 0.22236875
+Box: [700, 590, 1540, 830] Words: [Term, Mortgagee, Protection, M-1015304, Months, Mortgagee‘s, Policy, Number:, MHLF‘00000300, 12, Mortgage, Agreement:, 838501, 0155, .., ..] Ratio: 0.22315
+Box: [740, 550, 1580, 790] Words: [ , Term, Mortgagee, Protection, M-1015304, Months, Mortgagee‘s, Policy, Number:, MHLF‘00000300, 12, Mortgage, Agreement:, 838501, 0155] Ratio: 0.22236875
+Box: [810, 870, 1650, 1110] Words: [ ,  ,  , Tax, $0.00, Stamping, Fee, $0.00] Ratio: 0.05320625
+Box: [810, 990, 1650, 1230] Words: [ ,  , Total, Amount, $1,968.00,  ] Ratio: 0.04483125
+Box: [810, 1060, 1650, 1300] Words: [ , Total, Amount, $1,968.00,  ] Ratio: 0.04483125
+Box: [810, 1090, 1650, 1330] Words: [Total, Amount, $1,968.00,  ] Ratio: 0.04483125
+Box: [820, 270, 1660, 510] Words: [ , ., Manages, Name, &, Malling, Address, Northwest, Bank, P.O., Box, 1793, Warren,, PA, 16365] Ratio: 0.1491125
+Box: [820, 290, 1660, 530] Words: [ , ., Manages, Name, &, Malling, Address, Northwest, Bank, P.O., Box, 1793, Warren,, PA, 16365,  ,  ,  ] Ratio: 0.1491125
+Box: [840, 810, 1680, 1050] Words: [ ,  , Premium/Fees, $1,968.00, Tax, $0.00, Stamping, Fee, $0.00] Ratio: 0.09636875
+Box: [840, 820, 1680, 1060] Words: [ ,  , $1,968.00, Tax, $0.00, Stamping, Fee, $0.00] Ratio: 0.09636875
+Box: [860, 760, 1700, 1000] Words: [ , .., Premium/Fees, $1,968.00, Tax, $0.00, Stamping, Fee, $0.00] Ratio: 0.09655625
+Box: [860, 780, 1700, 1020] Words: [ , Premium/Fees, $1,968.00, Tax, $0.00, Stamping, Fee, $0.00] Ratio: 0.09655625

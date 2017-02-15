@@ -1,0 +1,60 @@
+Page:1
+Box: [0, 520, 740, 760] Words: [Mail, To:, ggHBhasxoglgBeglélK, ISAOA, SOLON, OH, 44139] Ratio: 0.3007714285714286
+Box: [0, 1170, 740, 1410] Words: [Your, CRAIG, WIEMERI, Agent:, 2043, LIBERTY, AVE, BELOIT, WI, 53511, OFFICE:, 608-365-6699] Ratio: 0.37320714285714285
+Box: [0, 1690, 740, 1930] Words: [ , Reference, Number, Type, HOMG113323, HOME] Ratio: 0.16701428571428573
+Box: [0, 1840, 740, 2080] Words: [HOMG113323, HOME] Ratio: 0.06245714285714286
+Box: [0, 2970, 740, 3210] Words: [C-2161, (08, 14)] Ratio: 0.04137857142857143
+Box: [70, 290, 810, 530] Words: [Reference, Number:, HOMG113323] Ratio: 0.14331428571428573
+Box: [360, 1690, 1100, 1930] Words: [ ,  , Reference, Type, Payment, Plan, HOME, FULL, PAY] Ratio: 0.17793571428571428
+Box: [360, 1840, 1100, 2080] Words: [HOME, FULL, PAY] Ratio: 0.04364285714285714
+Box: [370, 1690, 1110, 1930] Words: [ , Reference, Type, Payment, Plan, HOME, FULL, PAY] Ratio: 0.17793571428571428
+Box: [600, 420, 1340, 660] Words: [°5Z9°5Y°°°69] Ratio: 0.027428571428571427
+Box: [630, 700, 1370, 940] Words: [(see, reverse, side)] Ratio: 0.06312142857142858
+Box: [700, 1620, 1440, 1860] Words: [Term, Payment, Plan, Dates] Ratio: 0.11065
+Box: [860, 140, 1600, 380] Words: [Billing, Statement] Ratio: 0.14805
+Box: [860, 200, 1600, 440] Words: [Billing, Statement, Due, Date:, 06/18/2016] Ratio: 0.2418357142857143
+Box: [870, 2870, 1610, 3110] Words: [Thank, you, for, your, business!] Ratio: 0.13479285714285713
+Box: [870, 3010, 1610, 3250] Words: [you, your] Ratio: 0.13479285714285713
+Box: [900, 1840, 1640, 2080] Words: [06/18/2016, -, 06/18/2017] Ratio: 0.07248571428571429
+Box: [1070, 1340, 1810, 1580] Words: [Client, Number:, 0100064312] Ratio: 0.11931428571428572
+Box: [1070, 1410, 1810, 1650] Words: [] Ratio: 0.11931428571428572
+Box: [1130, 1610, 1870, 1850] Words: [Term, Cancellation, Dates, Date] Ratio: 0.11885714285714286
+Box: [1200, 130, 1940, 370] Words: [Statement] Ratio: 0.08903571428571429
+Box: [1200, 2180, 1940, 2420] Words: [Total, Amount, Due] Ratio: 0.05986428571428572
+Box: [1200, 2210, 1940, 2450] Words: [Total, Amount, Due,  ] Ratio: 0.05986428571428572
+Box: [1380, 790, 2120, 1030] Words: [000003ll000, 5] Ratio: 0.07834285714285714
+Box: [1390, 2210, 2130, 2450] Words: [Total, Amount, Due,  ,  ] Ratio: 0.05986428571428572
+Box: [1400, 1610, 2140, 1850] Words: [Cancellation, Status, Date] Ratio: 0.09988571428571429
+Box: [1530, 500, 2270, 740] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.30147857142857143
+Box: [1550, 200, 2290, 440] Words: [Amount, Due:, $340.00] Ratio: 0.09069285714285714
+Box: [1610, 2940, 2350, 3180] Words: [Process, Date:, 05/29/2016] Ratio: 0.07398571428571428
+Box: [1710, 790, 2450, 1030] Words: [5] Ratio: 0.005342857142857143
+Box: [40, 70, 880, 310] Words: [n:, IIuraI, Mutual, Insurance, Company] Ratio: 0.43593125
+Box: [40, 140, 880, 380] Words: [n:, Insurance, Company] Ratio: 0.43593125
+Box: [40, 1470, 880, 1710] Words: [Finance, Co.:, JOHNSON, BANK, ISAOA,  ,  , i., N, ', 3290125330] Ratio: 0.19316875
+Box: [80, 1840, 920, 2080] Words: [HOMG113323, HOME, FULL, PAY] Ratio: 0.0775625
+Box: [710, 1690, 1550, 1930] Words: [ , Term, Payment, Plan, Dates, FULL, PAY, 06/18/2016, -, 06/18/2017] Ratio: 0.18315625
+Box: [710, 1710, 1550, 1950] Words: [Term, Payment, Plan, Dates, FULL, PAY, 06/18/2016, -, 06/18/2017] Ratio: 0.18315625
+Box: [710, 1840, 1550, 2080] Words: [FULL, PAY, 06/18/2016, -, 06/18/2017] Ratio: 0.0863375
+Box: [1010, 1830, 1850, 2070] Words: [06/18/2016, -, 06/18/2017, 06/18/2016] Ratio: 0.09498125
+Box: [1040, 1690, 1880, 1930] Words: [ ,  , Term, Cancellation, Dates, Date, 06/18/2016, -, 06/18/2017, 06/18/2016] Ratio: 0.19898125
+Box: [1040, 1710, 1880, 1950] Words: [Term, Cancellation, Dates, Date, 06/18/2016, -, 06/18/2017, 06/18/2016] Ratio: 0.19898125
+Box: [1060, 1690, 1900, 1930] Words: [ ,  ,  , Term, Cancellation, Dates, Date, 06/18/2016, -, 06/18/2017, 06/18/2016] Ratio: 0.19898125
+Box: [1140, 1170, 1980, 1410] Words: [Account, HEATHER, DEVOE, Holder., 939, E, WINDFIELD, CT, UNIT, 21, BELOIT, WI, 53511] Ratio: 0.28130625
+Box: [1230, 1610, 2070, 1850] Words: [Term, Cancellation, Status, Dates, Date] Ratio: 0.1284
+Box: [1530, 1610, 2370, 1850] Words: [Cancellation, Status, Amount, Date, Due] Ratio: 0.13243125
+Box: [1530, 1690, 2370, 1930] Words: [ ,  ,  , Cancellation, Status, Amount, Date, Due, 06/18/2016, DUE, $340.00] Ratio: 0.197
+Box: [1530, 1710, 2370, 1950] Words: [Cancellation, Status, Amount, Date, Due, 06/18/2016, DUE, $340.00] Ratio: 0.197
+Box: [1530, 1830, 2370, 2070] Words: [06/18/2016, DUE, $340.00] Ratio: 0.06456875
+Box: [1550, 2190, 2390, 2430] Words: [Total, Amount, Due, $340.00] Ratio: 0.08765625
+Box: [1550, 2210, 2390, 2450] Words: [Total, Amount, Due, $340.00,  ,  ] Ratio: 0.08765625
+Box: [1560, 1690, 2400, 1930] Words: [ ,  , Cancellation, Status, Amount, Date, Due, 06/18/2016, DUE, $340.00] Ratio: 0.197
+Box: [1560, 2210, 2400, 2450] Words: [Total, Amount, Due, $340.00,  ] Ratio: 0.08765625
+Page:2
+Box: [0, 210, 740, 450] Words: [Name:, Street:] Ratio: 0.08142857142857143
+Box: [0, 340, 740, 580] Words: [Street:, City., State,, Zip:] Ratio: 0.14548571428571427
+Box: [0, 450, 740, 690] Words: [City., State,, Zip:, Phone, Number:, -] Ratio: 0.1936
+Box: [0, 570, 740, 810] Words: [Phone, Number:, -, Email, Address:] Ratio: 0.17677142857142858
+Box: [0, 670, 740, 910] Words: [Email, Address:] Ratio: 0.08685714285714285
+Box: [40, 0, 880, 240] Words: [Change, of, Address, Information] Ratio: 0.1674875
+Box: [40, 90, 880, 330] Words: [Change, of, Address, Information, Name:] Ratio: 0.2021625

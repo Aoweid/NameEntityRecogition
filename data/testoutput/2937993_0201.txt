@@ -1,0 +1,9 @@
+Page:1
+Box: [0, 540, 740, 780] Words: [Name, Insured, and, Address, CARLO, RANDAZZO, &, MICHELLE, RANDAZZO, 8555, KUHL, RD, ERIE, PA, 16510, ~, 4933] Ratio: 0.19374285714285713
+Box: [140, 1070, 880, 1310] Words: [ , Other, Coverage:, Dwelling, Structures, Amount, of, $254,000, *With, Guaranteed, Replacement, $50,800, Insurance:, Cost] Ratio: 0.2325142857142857
+Box: [520, 540, 1260, 780] Words: [Fig, Mortgages, NORTHWEST, BANK, ISAOA, PO, BOX, 39545, SOLON, OH, 44139, —, 0545] Ratio: 0.15735714285714286
+Box: [680, 1070, 1420, 1310] Words: [ , Other, Personal, Loss, Of, Structures, Pr, e, U3, m, $50,800, $190500] Ratio: 0.12149285714285714
+Box: [870, 1070, 1610, 1310] Words: [Personal, Loss, Of, Pr, e, U3, m, $190500] Ratio: 0.06917857142857142
+Box: [980, 1560, 1720, 1800] Words: [Balance, $766.75] Ratio: 0.034557142857142856
+Box: [630, 230, 1470, 470] Words: [Policy, Period, Policy, Number, From:, 03/28/2016, To:, 03/28/2017, 051-2806483] Ratio: 0.1267125
+Box: [690, 540, 1530, 780] Words: [Fig, Mortgages, Loan, Number, NORTHWEST, BANK, 1215006329, ISAOA, PO, BOX, 39545, SOLON, OH, 44139, —, 0545] Ratio: 0.17876875

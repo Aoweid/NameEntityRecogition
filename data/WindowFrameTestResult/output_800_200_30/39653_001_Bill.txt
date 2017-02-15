@@ -1,0 +1,3 @@
+Box: [0, 70, 860, 330] Words: [’1':, Rural, Mutual, Insurance, Company] Ratio: 0.415525
+Box: [990, 1180, 1850, 1440] Words: [Account, DOUG, GRAY, Holder:, 1740, S, 70TH, STREET, WEST, ALLIS, WI, 53214] Ratio: 0.26005
+Box: [1420, 520, 2280, 780] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.267425

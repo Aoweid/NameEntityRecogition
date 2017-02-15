@@ -1,0 +1,45 @@
+Page:1
+Box: [0, 110, 740, 350] Words: [Fax] Ratio: 0.14032857142857144
+Box: [0, 730, 740, 970] Words: [Message:] Ratio: 0.029142857142857144
+Box: [160, 370, 900, 610] Words: [From:, Beverly, A, Weik-Boettlin, Pages:, 3, Date:, 6/3/2016, 10:16:05, AM, Subject:, Daniel, F, Stoltzfus, home, dec, page] Ratio: 0.25469285714285717
+Box: [640, 30, 1380, 270] Words: [Phone:, (717), 335—2929, Fax:, (717), 335—2923] Ratio: 0.06979285714285714
+Box: [800, 320, 1540, 560] Words: [To:, Ins, Dept, Loan#, 2715042004, Fax:, (440), 505-6050, Phone:, (, ), -] Ratio: 0.14286428571428572
+Box: [190, 370, 1030, 610] Words: [From:, Beverly, A, Weik-Boettlin, To:, Pages:, 3, Fax:, Date:, 6/3/2016, 10:16:05, AM, Phone:, Subject:, Daniel, F, Stoltzfus, home, dec, page] Ratio: 0.25216875
+Page:2
+Box: [0, 510, 740, 750] Words: [Name, Insured, and, Address, DANIEL, F, STOL‘IZFUS, &, LINDA, R, STOLTZFUS, 309, EAST, MAIN, ST, LEOLA, PA, 17540, -, 1926] Ratio: 0.18444285714285713
+Box: [120, 1040, 860, 1280] Words: [Other, Coverage:, Dwelling, Structures, Amount, of, $710,500, *With, $142,100, Insurance:, Guaranteed, Replacement, Cost] Ratio: 0.21552142857142856
+Box: [500, 510, 1240, 750] Words: [First, Mort, a, ee, NORTHWEST, BANK, ISAOA, PO, BOX, 39545, SOLON, OH, 44139, -, 0545] Ratio: 0.12702142857142856
+Box: [650, 1040, 1390, 1280] Words: [Other, Personal, Loss, Of, Structures, Proger_ty, U_se, $142,100, $444,, 375, m] Ratio: 0.1248
+Box: [750, 510, 1490, 750] Words: [First, Mort, a, ee, M, NORTHWEST, BANK, 2715042004, ISAOA, PO, BOX, 39545, SOLON, OH, 44139, -, 0545] Ratio: 0.18017857142857144
+Box: [850, 1040, 1590, 1280] Words: [Personal, Loss, Of, Proger_ty, U_se, $444,, 375, m] Ratio: 0.07651428571428572
+Box: [930, 1520, 1670, 1760] Words: [Balance, $1,449.00] Ratio: 0.036014285714285714
+Box: [930, 1570, 1670, 1810] Words: [$1,449.00] Ratio: 0.036014285714285714
+Box: [110, 1570, 950, 1810] Words: [$1,449.00, Authorized, Agent:, (Not, valid, unless, signed, by, an, authorized, agent, of, the, ERIE.)] Ratio: 0.17924375
+Box: [110, 1660, 950, 1900] Words: [Authorized, Agent:, (Not, valid, unless, signed, by, an, authorized, agent, of, the, ERIE.)] Ratio: 0.1258125
+Box: [310, 1040, 1150, 1280] Words: [Other, Personal, Dwelling, Structures, Proger_ty, $710,500, *With, $142,100, $444,, 375, Guaranteed, Replacement, Cost] Ratio: 0.18105625
+Box: [610, 200, 1450, 440] Words: [Policy, Period, Policy, Number, From:, 06/18/2016, To:, 06/18/2017, 054-1811227] Ratio: 0.11699375
+Page:3
+Box: [0, 870, 740, 1110] Words: [Future, Installments, Due, Date, Transaction, 2016707718, TOTAL, MSTALLMENT, DUE, 2016707718, RENEWAL] Ratio: 0.1561
+Box: [80, 620, 820, 860] Words: [Payment, Transactions, Date, Received, Transaction, Amount, No, Records, Total, Payments:, $0., 00] Ratio: 0.1706642857142857
+Box: [80, 640, 820, 880] Words: [Date, Received, Transaction, Amount, No, Records, Total, Payments:, $0., 00] Ratio: 0.1706642857142857
+Box: [90, 370, 830, 610] Words: [Premium, Transactions, Date, effective, Transaction, Amount, 2016706718, RENEWAL, $;,449.00, Total, Premium:, $1,449.00] Ratio: 0.20622142857142858
+Box: [90, 380, 830, 620] Words: [Date, effective, Transaction, Amount, 2016706718, RENEWAL, $;,449.00, Total, Premium:, $1,449.00] Ratio: 0.20622142857142858
+Box: [350, 940, 1090, 1180] Words: [TOTAL, MSTALLMENT, DUE, $1,, 449.00, RENEWAL, $1,449.00, $1,, 449-, 30] Ratio: 0.12884285714285715
+Box: [350, 1040, 1090, 1280] Words: [RENEWAL, $1,449.00, $1,, 449-, 30] Ratio: 0.046092857142857144
+Box: [350, 1090, 1090, 1330] Words: [$1,, 449-, 30] Ratio: 0.01475
+Box: [490, 1040, 1230, 1280] Words: [$1,449.00, $1,, 449-, 30] Ratio: 0.03455
+Box: [540, 370, 1280, 610] Words: [Amount, Date, Entered, $;,449.00, 2C16705707, $1,449.00] Ratio: 0.09387142857142858
+Box: [540, 530, 1280, 770] Words: [$1,449.00, Amount] Ratio: 0.03452857142857143
+Box: [540, 620, 1280, 860] Words: [Amount, $0., 00] Ratio: 0.022892857142857142
+Box: [540, 760, 1280, 1000] Words: [$0., 00, Amount] Ratio: 0.023035714285714284
+Box: [690, 870, 1430, 1110] Words: [Amount, $1,, 449.00, $1,449.00] Ratio: 0.05009285714285714
+Box: [690, 920, 1430, 1160] Words: [Amount, $1,, 449.00, $1,449.00, $1,, 449-, 30] Ratio: 0.06484285714285715
+Box: [690, 940, 1430, 1180] Words: [$1,, 449.00, $1,449.00, $1,, 449-, 30] Ratio: 0.06484285714285715
+Box: [740, 180, 1480, 420] Words: [06/03/201610:15:52, AM, Agency:, AA7920] Ratio: 0.07492857142857143
+Box: [810, 340, 1550, 580] Words: [Date, Entered, 2C16705707] Ratio: 0.03938571428571429
+Box: [810, 470, 1550, 710] Words: [2C16705707] Ratio: 0.017242857142857143
+Box: [50, 1090, 890, 1330] Words: [Account, Balance:, $1,, 449-, 30] Ratio: 0.04178125
+Box: [60, 870, 900, 1110] Words: [ , Future, Installments, Due, Date, Transaction, Amount, 2016707718, TOTAL, MSTALLMENT, DUE, $1,, 449.00, 2016707718, RENEWAL, $1,449.00] Ratio: 0.18041875
+Box: [60, 940, 900, 1180] Words: [ , 2016707718, TOTAL, MSTALLMENT, DUE, $1,, 449.00, 2016707718, RENEWAL, $1,449.00, Account, Balance:, $1,, 449-, 30] Ratio: 0.184825
+Box: [60, 1040, 900, 1280] Words: [2016707718, RENEWAL, $1,449.00, Account, Balance:, $1,, 449-, 30] Ratio: 0.0841875
+Box: [640, 60, 1480, 300] Words: [ACCOUNTING, 06/03/201610:15:52, AM] Ratio: 0.1139875

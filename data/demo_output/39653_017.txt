@@ -1,0 +1,24 @@
+Page:1
+Box: [0, 170, 740, 410] Words: [Allstate, Insurance, Company, Lender, Relations, Center, P.0., Box, 660649, Dallas,, TX, 75266-0649] Ratio: 0.17186428571428572
+Box: [0, 2900, 740, 3140] Words: [82077] Ratio: 0.0132
+Box: [170, 0, 910, 240] Words: [Rece‘ived, Fri, Jun, 03,, 2016] Ratio: 0.08793571428571428
+Box: [170, 10, 910, 250] Words: [Fri, Jun, 03,, 2016] Ratio: 0.08793571428571428
+Box: [180, 2030, 920, 2270] Words: [Policy, type:, House, &, Home] Ratio: 0.10569285714285714
+Box: [190, 1510, 930, 1750] Words: [Mortgagee, or, Interested, Party:] Ratio: 0.12872142857142857
+Box: [190, 1610, 930, 1850] Words: [Mortgagee, or, Party:] Ratio: 0.12872142857142857
+Box: [190, 1920, 930, 2160] Words: [Name, and, address, of, Insured:] Ratio: 0.12048571428571428
+Box: [460, 0, 1200, 240] Words: [Jun, 03,, 2016] Ratio: 0.04069285714285714
+Box: [550, 0, 1290, 240] Words: [03,, 2016] Ratio: 0.030064285714285714
+Box: [640, 0, 1380, 240] Words: [2016] Ratio: 0.016392857142857143
+Box: [910, 1620, 1650, 1860] Words: [JOHNSON, BANK, P, 0, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.22314285714285714
+Box: [1000, 1950, 1740, 2190] Words: [MANAV, ANAND, 6009, E, DANBURY, RD, SCOTTSDALE, AZ, 85254-6445] Ratio: 0.2802
+Box: [1290, 480, 2030, 720] Words: [>, Policyholder(s), MANAV, ANAND, Policy, number] Ratio: 0.21024285714285715
+Box: [1350, 2170, 2090, 2410] Words: [Policy, Number:, 836177, 411] Ratio: 0.10496428571428572
+Box: [1570, 1520, 2310, 1760] Words: [ITS, SUCCESSORS, &/OR, ASSIGNS] Ratio: 0.13972857142857142
+Box: [1580, 2680, 2320, 2920] Words: [ABIS68-3] Ratio: 0.04152857142857143
+Box: [1620, 90, 2360, 330] Words: [v@Allstate:, You're, in, good, hands.] Ratio: 0.7607785714285714
+Box: [1780, 2780, 2520, 3020] Words: [ABIS68-3, WJEE] Ratio: 0.05715
+Box: [1780, 2900, 2520, 3140] Words: [WJEE] Ratio: 0.01562142857142857
+Box: [300, 2030, 1140, 2270] Words: [Policy, type:, House, &, Home, _] Ratio: 0.0925375
+Box: [1600, 370, 2440, 610] Words: [Information, as, of, May, 26,, 2016, Policyholder(s), MANAV, ANAND, Page, 1, of, 1] Ratio: 0.2655625
+Box: [1600, 480, 2440, 720] Words: [Policyholder(s), MANAV, ANAND, Policy, number, Page, 1, of, 1] Ratio: 0.2172625

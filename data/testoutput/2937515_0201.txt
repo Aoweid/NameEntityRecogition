@@ -1,0 +1,19 @@
+Page:1
+Box: [0, 30, 740, 270] Words: [., _, Policy, Declarations] Ratio: 0.1472
+Box: [20, 770, 760, 1010] Words: [Premium, Summary, Standard, Policy, with, HomeProtector, Plus, Additional, Coverages, -, Total, 12, Month, Policy, Premium] Ratio: 0.23347857142857142
+Box: [340, 20, 1080, 260] Words: [_, Declarations] Ratio: 0.09306428571428571
+Box: [580, 530, 1320, 770] Words: [Policy, Period, 03/04/2016-03/04/2017, 12:01AM, standard, time, at, the, address, of, the, Named, Insured, at, insured, Location.] Ratio: 0.21542857142857144
+Box: [580, 550, 1320, 790] Words: [Period, 03/04/2016-03/04/2017, 12:01AM, standard, time, at, the, address, of, the, Named, Insured, at, insured, Location.] Ratio: 0.21542857142857144
+Box: [730, 20, 1470, 260] Words: [Liberty, M] Ratio: 0.0454
+Box: [140, 770, 980, 1010] Words: [Premium, Summary, Standard, Policy, with, HomeProtector, Plus, 35, Additional, Coverages, 3;, -, Total, 12, Month, Policy, Premium, $] Ratio: 0.210475
+Page:2
+Box: [650, 1410, 1390, 1650] Words: [Mortgages, 2:, AMERICAN, BANK, ISAOA, /, ATIMA, LOAN, NO., 6000344041, 9001, Edmonston, Rd, Greenbelt., MD, 20770-4074] Ratio: 0.21472857142857144
+Box: [730, 40, 1470, 280] Words: [liberty, Mal.-, [NEURANGE] Ratio: 0.05405
+Box: [830, 260, 1570, 500] Words: [[, LIMITS, PREMIUM, is, 1.000, $, 0] Ratio: 0.053592857142857143
+Box: [870, 260, 1610, 500] Words: [[, LIMITS, PREMIUM, 1.000, $, 0] Ratio: 0.05129285714285714
+Page:3
+Box: [100, 610, 840, 850] Words: [Mark, C., Touhey, David, H., Long, Secretary, President] Ratio: 0.09861428571428571
+Box: [100, 720, 840, 960] Words: [Touhey, David, H., Long, Secretary, President] Ratio: 0.09861428571428571
+Box: [730, 40, 1470, 280] Words: [L'b, %auas, iNsuRANciii] Ratio: 0.11457142857142857
+Box: [820, 600, 1560, 840] Words: [Ty, Harris, Authorized, Representative] Ratio: 0.06988571428571429
+Box: [620, 600, 1460, 840] Words: [David, H., Long, Ty, Harris, President, Authorized, Representative] Ratio: 0.0997

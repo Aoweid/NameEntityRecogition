@@ -1,0 +1,10 @@
+Box: [100, 620, 940, 860] Words: [Yuly, Osorio, &, Julio, Araujo, 6238, Dominion, Dr, Madison, WI, 53718-3123] Ratio: 0.2636625
+Box: [100, 1170, 940, 1410] Words: [BASIC, ATTACHED, COVERAGES, ENDORSEMENTS, PREMIUM, PREMIUM, $614.00, $82.00] Ratio: 0.278925
+Box: [100, 1230, 940, 1470] Words: [COVERAGES, ENDORSEMENTS, PREMIUM, PREMIUM, $614.00, $82.00] Ratio: 0.2232375
+Box: [100, 1930, 940, 2170] Words: [Coverage, A, Dwelling, Coverage, B, other, Structures, Coverage, C, Personal, Property, Coverage, D, Loss, of, Use] Ratio: 0.41895
+Box: [100, 2580, 940, 2820] Words: [ISAOA, PO, Box, 39653, Solon, OH, 44139-0653, LOAN, #, 3290111571] Ratio: 0.209625
+Box: [130, 940, 970, 1180] Words: [THE, RESIDENCE, PREMISES, COVERED, UNLESS, OTHERWISE, STATED.] Ratio: 0.210425
+Box: [130, 1460, 970, 1700] Words: [ITEM, PROP, HAIL, PROP, CONST, NUM, DEDUCT, DEDUCT, FORM, TYPE, 001, $1000, NO, 3, FR, MORTGAGEES, THAT, APPLY:, 1] Ratio: 0.339675
+Box: [390, 1930, 1230, 2170] Words: [A, Dwelling, B, other, Structures, C, Personal, Property, D, Loss, of, Use] Ratio: 0.2489375
+Box: [520, 1170, 1360, 1410] Words: [ATTACHED, SCHEDULED, ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $82.00] Ratio: 0.254525
+Box: [1200, 120, 2040, 360] Words: [Homeowners, -, Badger, 2000, Renewal, Declaration] Ratio: 0.2379

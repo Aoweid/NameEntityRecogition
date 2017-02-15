@@ -1,0 +1,10 @@
+Page:1
+Box: [0, 150, 740, 390] Words: [Johnson, Insurance, Servicesllc, _, 11303, Washington, Ave, Mount, Pleasant,, WI, 53177] Ratio: 0.14497142857142858
+Box: [0, 520, 740, 760] Words: [JOHNSON, BANK, &/, OR, ASSIGNS, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.29635
+Box: [570, 370, 1310, 610] Words: [ITS, SUCCESSORS] Ratio: 0.07464285714285715
+Box: [940, 590, 1680, 830] Words: [,] Ratio: 5.714285714285714E-5
+Box: [1460, 420, 2200, 660] Words: [Information, as, of, May, 25,2016, Policyholder, Paul, Gaulke, ,, Kathryn, Gaulke] Ratio: 0.2488142857142857
+Box: [1600, 1280, 2340, 1520] Words: [See, your, Policy, Coverage, Summary, for, a, complete, schedule, of, your, policy, coverage.] Ratio: 0.27794285714285716
+Box: [1660, 80, 2400, 320] Words: [Encompass", Creating, protection, around, you] Ratio: 0.43255
+Box: [1600, 420, 2440, 660] Words: [Information, as, of, May, 25,2016, Policyholder, Paul, Gaulke, Page, 1, of, 1, ,, Kathryn, Gaulke] Ratio: 0.2451
+Box: [1660, 420, 2500, 660] Words: [Information, as, of, May, 25,2016, Policyholder, Paul, Gaulke, Page, 1, of, 1, Kathryn, Gaulke] Ratio: 0.24505

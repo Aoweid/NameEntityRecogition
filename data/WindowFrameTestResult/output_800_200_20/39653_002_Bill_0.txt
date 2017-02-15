@@ -1,0 +1,6 @@
+Box: [0, 520, 840, 760] Words: [Mail, To:, ggHBhasxoglgBeglélK, ISAOA, SOLON, OH, 44139] Ratio: 0.263175
+Box: [0, 1170, 840, 1410] Words: [Your, CRAIG, WIEMERI, Agent:, 2043, LIBERTY, AVE, BELOIT, WI, 53511, OFFICE:, 608-365-6699] Ratio: 0.32655625
+Box: [40, 70, 880, 310] Words: [n:, IIuraI, Mutual, Insurance, Company] Ratio: 0.43593125
+Box: [40, 140, 880, 380] Words: [n:, Insurance, Company] Ratio: 0.43593125
+Box: [1140, 1170, 1980, 1410] Words: [Account, HEATHER, DEVOE, Holder., 939, E, WINDFIELD, CT, UNIT, 21, BELOIT, WI, 53511] Ratio: 0.28130625
+Box: [1430, 500, 2270, 740] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.26379375

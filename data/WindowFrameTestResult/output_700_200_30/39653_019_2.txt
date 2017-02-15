@@ -1,0 +1,1 @@
+Box: [100, 550, 860, 810] Words: [Heather, L, Schimmers, 1408, Southfield, Dr, Menasha, WI, 54952-9490] Ratio: 0.27235

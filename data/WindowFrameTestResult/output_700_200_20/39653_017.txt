@@ -1,0 +1,4 @@
+Box: [910, 1620, 1650, 1860] Words: [JOHNSON, BANK, P, 0, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.22314285714285714
+Box: [1000, 1950, 1740, 2190] Words: [MANAV, ANAND, 6009, E, DANBURY, RD, SCOTTSDALE, AZ, 85254-6445] Ratio: 0.2802
+Box: [1290, 480, 2030, 720] Words: [>, Policyholder(s), MANAV, ANAND, Policy, number] Ratio: 0.21024285714285715
+Box: [1620, 90, 2360, 330] Words: [v@Allstate:, You're, in, good, hands.] Ratio: 0.7607785714285714

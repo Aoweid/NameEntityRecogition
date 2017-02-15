@@ -1,0 +1,66 @@
+Page:1
+Box: [0, 30, 740, 270] Words: [-, Fax, Transmission] Ratio: 0.24317857142857144
+Box: [0, 110, 740, 350] Words: [-, Fax, Transmission, To:, Loan, #1695217057] Ratio: 0.2906642857142857
+Box: [0, 200, 740, 440] Words: [To:, Loan, #1695217057, Fax:, 14405056050] Ratio: 0.08785714285714286
+Box: [0, 270, 740, 510] Words: [To:, Loan, #1695217057, Fax:, 14405056050, RE:, McNabb] Ratio: 0.11595714285714286
+Box: [0, 330, 740, 570] Words: [Fax:, 14405056050, RE:, McNabb] Ratio: 0.06847142857142857
+Box: [0, 400, 740, 640] Words: [RE:, McNabb, Comments:] Ratio: 0.056557142857142854
+Box: [0, 570, 740, 810] Words: [Comments:, Jacoby, &, Associates, Agency, LLC, 1000, Main, Street,, Piitsburgh,, PA, 15215, (412), 781—2382, Office, /, (724), 821—9745, Fax, http://www1JacobyandAssociatesscom] Ratio: 0.3442142857142857
+Box: [0, 620, 740, 860] Words: [Jacoby, &, Associates, Agency, LLC, 1000, Main, Street,, Piitsburgh,, PA, 15215, (412), 781—2382, Office, /, (724), 821—9745, Fax, http://www1JacobyandAssociatesscom] Ratio: 0.31575714285714285
+Box: [70, 30, 810, 270] Words: [Fax, Transmission] Ratio: 0.24129285714285714
+Box: [220, 30, 960, 270] Words: [Transmission] Ratio: 0.19257857142857143
+Box: [260, 400, 1000, 640] Words: [Pages:, 5] Ratio: 0.03045
+Box: [330, 330, 1070, 570] Words: [Date:, 6/3/2016, Pages:, 5] Ratio: 0.06432142857142857
+Box: [330, 350, 1070, 590] Words: [6/3/2016, Pages:, 5] Ratio: 0.06432142857142857
+Box: [410, 200, 1150, 440] Words: [From:, Gerald, Jacoby, Date:, 6/3/2016] Ratio: 0.08402857142857142
+Box: [720, 110, 1460, 350] Words: [From:, Gerald, Jacoby] Ratio: 0.05015714285714286
+Box: [880, 110, 1620, 350] Words: [Gerald, Jacoby] Ratio: 0.030557142857142856
+Box: [880, 180, 1620, 420] Words: [Gerald, Jacoby, 6/3/2016] Ratio: 0.047842857142857145
+Box: [900, 270, 1640, 510] Words: [Gerald, Jacoby, 6/3/2016, 5] Ratio: 0.049792857142857146
+Box: [900, 330, 1640, 570] Words: [6/3/2016, 5] Ratio: 0.019235714285714287
+Box: [900, 400, 1640, 640] Words: [5] Ratio: 0.00195
+Page:2
+Box: [0, 1160, 740, 1400] Words: [Thank, You., insurance, Department] Ratio: 0.04727142857142857
+Box: [0, 1280, 740, 1520] Words: [insurance, Department] Ratio: 0.03187142857142857
+Box: [0, 1750, 740, 1990] Words: [Fax, lD:, MBNOR, Fax~59445535] Ratio: 0.04377857142857143
+Box: [400, 30, 1140, 270] Words: [IHHV, Urgent, *4d:, MORTGAGES, REQUEST, FOR, INFORMATION] Ratio: 0.14742857142857144
+Page:3
+Box: [0, 30, 740, 270] Words: [THE, PHILADELPHIA, CONTRIBUTIONSHIP] Ratio: 0.14462857142857144
+Box: [0, 700, 740, 940] Words: [Transaction, Type:, NEW, BUSINESS, Coverage, Information, Loss, Settlement:, Replacement, Cost] Ratio: 0.21255714285714286
+Box: [0, 1800, 740, 2040] Words: [HODEC, 01, 14] Ratio: 0.014092857142857143
+Box: [10, 1700, 750, 1940] Words: [OTHER, COVERAGES, AND, ENDORSEMENTS, H0, 23, 63, -, Personal, Property, Replacement, Cost] Ratio: 0.16401428571428572
+Box: [410, 480, 1150, 720] Words: [Mailing, Address, 126, Laurelwood, Dr, Pittsburgh,, PA, 152374069] Ratio: 0.11095
+Box: [450, 260, 1190, 500] Words: [Risk/Progeny, Address, 126, Laurelwood, Dr, Pittsburgh,, PA, 15237-4069] Ratio: 0.12481428571428571
+Box: [610, 1150, 1350, 1390] Words: [$375,000, $37500, $262,500, $112,500] Ratio: 0.07298571428571429
+Box: [640, 1380, 1380, 1620] Words: [$100,000, $1, ‘000, 2.0%] Ratio: 0.04107857142857143
+Box: [640, 1460, 1380, 1700] Words: [$1, ‘000, 2.0%] Ratio: 0.021971428571428572
+Box: [670, 1510, 1410, 1750] Words: [2.0%] Ratio: 0.009114285714285714
+Box: [720, 1840, 1460, 2080] Words: [HOMEOWNERS, DECLARATION] Ratio: 0.03655
+Box: [760, 1380, 1500, 1620] Words: [$100,000, Included, $1, ‘000, Included, 2.0%] Ratio: 0.06957857142857143
+Box: [760, 1460, 1500, 1700] Words: [$1, ‘000, Included, 2.0%] Ratio: 0.03622142857142857
+Box: [770, 1050, 1510, 1290] Words: [LIMIT, OF, PREMIUM, LIABILITY, $375,000, $824.36, $37500, Included] Ratio: 0.11691428571428572
+Box: [770, 1150, 1510, 1390] Words: [$375,000, $824.36, $37500, Included, $262,500, Included, $112,500, Included] Ratio: 0.13101428571428572
+Box: [770, 1620, 1510, 1860] Words: [$103.64, TOTAL, POLICY, PREMIUM, $428.00] Ratio: 0.07702142857142857
+Box: [830, 30, 1570, 270] Words: [DECLARATIONS, PAGE, Homeowners, Policy, Germantown, Insurance, Company] Ratio: 0.17102857142857142
+Box: [960, 450, 1700, 690] Words: [Policy, Period:, The, term, of, this, policy, shall, be, from, 12:01, am, easlem, standard, lime, at, the, risk/property, address, shown, for, such, like, terms, thereafter, as, the, required, premium, is, paid, by, the, insured, on, or, before, the, expiration, of, the, current, term, and, is, accepted, by, the, company.] Ratio: 0.2998571428571429
+Box: [510, 1050, 1350, 1290] Words: [COVERAGES, LIMIT, OF, LIABILITY, $375,000, $37500] Ratio: 0.0834
+Page:4
+Box: [0, 30, 740, 270] Words: [THE, PHILADELPHIA, CONT, RIB, UTI, ONS, HIP] Ratio: 0.13263571428571427
+Box: [0, 240, 740, 480] Words: [COVERAGES] Ratio: 0.02592857142857143
+Box: [0, 1810, 740, 2050] Words: [HODEC, 01, 14] Ratio: 0.014085714285714286
+Box: [90, 820, 830, 1060] Words: [Policy, lnfonnation, Construction, Type:, Frame, Occupancy:, Owner, Construction, Year:, 1969, Protection, Class:, 4] Ratio: 0.21047857142857143
+Box: [90, 860, 830, 1100] Words: [Construction, Type:, Frame, Occupancy:, Owner, Construction, Year:, 1969, Protection, Class:, 4] Ratio: 0.21047857142857143
+Box: [540, 820, 1280, 1060] Words: [Occupancy:, Owner, Number, of, Units:, 1, Protection, Class:, 4] Ratio: 0.10302142857142857
+Box: [720, 1800, 1460, 2040] Words: [HOMEO‘WNERS, DECLARATION] Ratio: 0.03753571428571428
+Box: [810, 810, 1550, 1050] Words: [Number, of, Units:, 1] Ratio: 0.031064285714285714
+Box: [830, 30, 1570, 270] Words: [DECLARATIONS, PAGE, Homeowners, Policy, Germantown, Insurance, Company] Ratio: 0.17068571428571427
+Box: [720, 270, 1560, 510] Words: [LIMIT, OF, PREMIUM, LIABILITY,  ,  , Any, returned, or, additional, premium, of, $3, or, less, may, be, waived] Ratio: 0.12789375
+Box: [720, 280, 1560, 520] Words: [LIMIT, OF, PREMIUM, LIABILITY,  ,  ,  , Any, returned, or, additional, premium, of, $3, or, less, may, be, waived] Ratio: 0.12789375
+Page:5
+Box: [0, 30, 740, 270] Words: [TH, E, P, H, I, LADE, 1.?, F1, 1“, CONTRIBUTIONS, H, l, P] Ratio: 0.11774285714285715
+Box: [0, 1810, 740, 2050] Words: [HDDEC, O1, 14] Ratio: 0.012664285714285715
+Box: [90, 300, 830, 540] Words: [COUNTERSIGNED, “35‘s“, mange-4‘s, “1..“, V, (Author, okepreseritarive)] Ratio: 0.12291428571428571
+Box: [340, 300, 1080, 540] Words: [“35‘s“, mange-4‘s, “1..“, V, (Author, okepreseritarive)] Ratio: 0.09091428571428571
+Box: [730, 1810, 1470, 2050] Words: [HOMEOWNERS, DECLARATION] Ratio: 0.03527142857142857
+Box: [810, 260, 1550, 500] Words: [DATED, 04/08/2016] Ratio: 0.03042857142857143
+Box: [840, 30, 1580, 270] Words: [DECLARATIONS, PAGE, Hameowners, Policy, Germantown, Insurance, Company] Ratio: 0.16322142857142857

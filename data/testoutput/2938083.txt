@@ -1,0 +1,16 @@
+Page:1
+Box: [0, 210, 740, 450] Words: [PARRISH., HEATHER, 8745, Iiil, RIDGE, RD, APT, D, ELYRIA, OH, 44035-4563] Ratio: 0.11092857142857143
+Box: [120, 170, 860, 410] Words: [H-16-24DD-FBGG, PARRISH., HEATHER, 8745, Iiil, RIDGE, RD, APT, D, ELYRIA, OH, 44035-4563] Ratio: 0.13217857142857142
+Box: [210, 170, 950, 410] Words: [H-16-24DD-FBGG, H, PARRISH., HEATHER, 8745, Iiil, RIDGE, RD, APT, D, ELYRIA, OH, 44035-4563] Ratio: 0.134
+Box: [670, 730, 1410, 970] Words: [Other, items, shown, are, effective, with, the, policy's, 2016, renewal] Ratio: 0.1074
+Box: [780, 1340, 1520, 1580] Words: [Endorsement, Premium, _, _, Discounts, Applied:, Home, Alert, Claim, Record] Ratio: 0.12745
+Box: [780, 1440, 1520, 1680] Words: [_, _, Discounts, Applied:, Home, Alert, Claim, Record] Ratio: 0.08305
+Box: [850, 270, 1590, 510] Words: [Loan, #, 20150790, Mortgagee, NORTHWEST, SAVINGS, BANK, ITS, SUCCESSORS, AND/OR, ASSIGNS, PO, BOX, 39545, SOLON, OH, 44139-0545] Ratio: 0.2204357142857143
+Box: [960, 900, 1700, 1140] Words: [Inﬂation, Coverage, Index:, 238], Deductibles, -, Section, I, A“, Losses, $, 1’000] Ratio: 0.13890714285714287
+Box: [1300, 1320, 2040, 1560] Words: [NONE] Ratio: 0.010678571428571428
+Box: [160, 170, 1000, 410] Words: [H-16-24DD-FBGG, H, F, PARRISH., HEATHER, 8745, Iiil, RIDGE, RD, APT, D, ELYRIA, OH, 44035-4563] Ratio: 0.11863125
+Box: [880, 1340, 1720, 1580] Words: [Endorsement, Premium, NONE, _, _, Discounts, Applied:, Home, Alert, Claim, Record] Ratio: 0.1208625
+Box: [960, 1100, 1800, 1340] Words: [I, I, I, I, I, In, case, of, loss, under, thlS, policy,, the, deductibles, Will, be, applied, per, occurrence, and, will, be, deducted, from, the, amount, of, the, ', ., ', loss., Other, deductibles, may, apply, refer, to, policy.] Ratio: 0.25698125
+Page:2
+Box: [510, 0, 1250, 240] Words: [CONTINUED, FROM, FRONT, SIDE] Ratio: 0.08678571428571429
+Box: [510, 30, 1250, 270] Words: [] Ratio: 0.08678571428571429

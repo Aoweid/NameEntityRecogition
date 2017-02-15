@@ -1,0 +1,24 @@
+Page:1
+Box: [0, 40, 740, 280] Words: [ , §%%] Ratio: 0.0069642857142857145
+Box: [0, 130, 740, 370] Words: [§%%, 1—440—505—6050, ééﬁ] Ratio: 0.04164285714285714
+Box: [0, 250, 740, 490] Words: [1—440—505—6050, §%%%, ééﬁ, 2, pages, including, this, cover, sheet.,  ] Ratio: 0.08368571428571428
+Box: [0, 480, 740, 720] Words: [Facsimile, transmission] Ratio: 0.44549285714285713
+Box: [0, 590, 740, 830] Words: [transmission] Ratio: 0.25412142857142855
+Box: [0, 790, 740, 1030] Words: [Memo] Ratio: 0.011142857142857144
+Box: [0, 850, 740, 1090] Words: [Memo, attention, loan, 699258] Ratio: 0.03475
+Box: [0, 1010, 740, 1250] Words: [attention, loan, 699258] Ratio: 0.023607142857142858
+Box: [100, 40, 840, 280] Words: [§%%] Ratio: 0.0069642857142857145
+Box: [100, 250, 840, 490] Words: [1—440—505—6050, §%%%, ééﬁ, 2, pages, including, this, cover, sheet.] Ratio: 0.08368571428571428
+Box: [170, 90, 910, 330] Words: [1—440—505—6050] Ratio: 0.026285714285714287
+Box: [170, 200, 910, 440] Words: [1—440—505—6050, 2, pages, including, this, cover, sheet.] Ratio: 0.06547142857142857
+Box: [540, 40, 1280, 280] Words: [6/3/2016] Ratio: 0.014285714285714285
+Page:2
+Box: [50, 680, 790, 920] Words: [Named, Insured, and, Address, JEFFREY, w, MCLAIN, JULIE, NCLAIN, 4305, CHEVAL, CIR, STOW, OH, 44224, Limits, of, Coverage, Coverage, A-Dwelling, Coverage, B-Other, Structu'es, $351,5C0, $35,15C] Ratio: 0.17130714285714285
+Box: [250, 1540, 990, 1780] Words: [Agent, Signature:] Ratio: 0.023142857142857142
+Box: [310, 70, 1050, 310] Words: [  , as, u, ‘, $52:, 06%, ﬂ, “33:3, “5:?, 3, ante“, Homeowner, Declaration] Ratio: 0.11765
+Box: [450, 230, 1190, 470] Words: [Homeowner, Declaration, Mortgagee, Name, and, Address, NORTHWEST, SAVINGS, BANK, ISAoA, PO, Box, 3, 9, 5, 4, 5, SOLON,, 0h;o, 44139] Ratio: 0.12934285714285715
+Box: [450, 290, 1190, 530] Words: [Mortgagee, Name, and, Address, NORTHWEST, SAVINGS, BANK, ISAoA, PO, Box, 3, 9, 5, 4, 5, SOLON,, 0h;o, 44139] Ratio: 0.08862857142857143
+Box: [450, 970, 1190, 1210] Words: [Second, Mortgagee, FIFTH, THIRD, BANE, PO, Box, 598, AMELIA,, 0th, 451m, Loan, Number:, 365117683] Ratio: 0.07208571428571428
+Box: [750, 770, 1490, 1010] Words: [Coverage, C, -, Personal, Property, Coverage, E, -, Personal, Liability, $246,050, S300,C00] Ratio: 0.07368571428571428
+Box: [960, 40, 1700, 280] Words: [Grange, Property, &, Casualty, Insurance, Company, PO, Box, 1218, Columbus, OH, 432161218] Ratio: 0.07582142857142857
+Box: [740, 1540, 1580, 1780] Words: [Agent, Signature:,  ] Ratio: 0.02025
