@@ -1,5 +1,0 @@
-Box: [150, 2450, 1010, 2710] Words: [\/, Badger, Mutual, INSURANCE] Ratio: 0.45625625
-Box: [150, 2460, 1010, 2720] Words: [\/, Badger, INSURANCE] Ratio: 0.45625625
-Box: [1140, 2770, 2000, 3030] Words: [JOHNSON, BANK, ISAOA, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.2334625
-Box: [1250, 610, 2110, 870] Words: [Billing, Name, and, Address, HEATHER, L, SCHIMMERS, 1408, SOUTHFIELD, DR, MENASHA, WI, 54952-9490] Ratio: 0.38054375
-Box: [1280, 910, 2140, 1170] Words: [Loan, Number:, 3290130679, Amount, Due:, $935.00] Ratio: 0.26911875

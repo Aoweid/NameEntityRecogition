@@ -1,4 +1,0 @@
-Page:1
-Box: [0, 2000, 740, 2240] Words: [00558] Ratio: 0.01
-Box: [630, 3030, 1370, 3270] Words: [Pageant:] Ratio: 0.024142857142857143
-Box: [950, 240, 1790, 480] Words: [sums:, W, Personal, Property, 0/0, Increased, Content, Coverage, 0/0, Maximum, Contents, Coverage, 0/0] Ratio: 0.25090625

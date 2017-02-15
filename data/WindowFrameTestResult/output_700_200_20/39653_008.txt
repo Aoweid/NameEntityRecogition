@@ -1,3 +1,0 @@
-Box: [70, 520, 810, 760] Words: [JOHNSON, BANK, ISAOA, PO, BOX, 39653, SOLON, 0H, 44139] Ratio: 0.20106428571428572
-Box: [70, 610, 810, 850] Words: [PO, BOX, 39653, SOLON, 0H, 44139] Ratio: 0.20106428571428572
-Box: [1760, 530, 2500, 770] Words: [For, POI-1°)!, changes, or, quesfions, call:, 1-800-236-5546, For, clams, can:, 1—800-252-4633.] Ratio: 0.29315714285714284

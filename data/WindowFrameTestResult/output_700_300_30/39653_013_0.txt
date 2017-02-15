@@ -1,3 +1,0 @@
-Box: [0, 560, 760, 920] Words: [2231, 1MB, 0.419, JOHNSON, BANK, ISAOA, PO, BOX, 39653, SOLON, OH, 44139-0653] Ratio: 0.2244095238095238
-Box: [660, 1430, 1420, 1790] Words: [Policy, Number:, 00688-34251, Loan, Number:, 3290125386] Ratio: 0.2323047619047619
-Box: [690, 960, 1450, 1320] Words: [Name, and, Address, of, Insured:, Joyce, A, DirschI] Ratio: 0.20234285714285713

@@ -1,4 +1,0 @@
-Box: [520, 1160, 1380, 1420] Words: [ATTACHED, SCHEDULED, ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $147.00] Ratio: 0.25885625
-Box: [520, 1170, 1380, 1430] Words: [ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $147.00] Ratio: 0.25885625
-Box: [1190, 110, 2050, 370] Words: [Homeowners, -, Badger, 2000, Renewal, Declaration] Ratio: 0.23959375
-Box: [1190, 120, 2050, 380] Words: [Homeowners, -, 2000, Renewal, Declaration] Ratio: 0.23959375

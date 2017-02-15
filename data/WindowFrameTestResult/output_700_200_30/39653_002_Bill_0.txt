@@ -1,3 +1,0 @@
-Box: [0, 510, 760, 770] Words: [Mail, To:, ggHBhasxoglgBeglélK, ISAOA, SOLON, OH, 44139] Ratio: 0.3007714285714286
-Box: [0, 1170, 760, 1430] Words: [Your, CRAIG, WIEMERI, Agent:, 2043, LIBERTY, AVE, BELOIT, WI, 53511, OFFICE:, 608-365-6699] Ratio: 0.37320714285714285
-Box: [1520, 490, 2280, 750] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.30147857142857143

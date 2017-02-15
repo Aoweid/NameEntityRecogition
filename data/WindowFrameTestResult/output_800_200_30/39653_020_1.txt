@@ -1,3 +1,0 @@
-Box: [100, 610, 960, 870] Words: [Craig, R, Jacobs, 5, Victoria, L, Jacobs, 6627, Highway, 31, Caledonia, WI, 53402-9734] Ratio: 0.29898125
-Box: [520, 1160, 1380, 1420] Words: [ATTACHED, SCHEDULED, ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $13.00-] Ratio: 0.25968125
-Box: [1200, 110, 2060, 370] Words: [Homeowners, -, Standard, Renewal, Declaration] Ratio: 0.21903125

@@ -1,4 +1,0 @@
-Box: [910, 1950, 1750, 2190] Words: [MANAV, ANAND, 6009, E, DANBURY, RD, SCOTTSDALE, AZ, 85254-6445] Ratio: 0.245175
-Box: [1520, 90, 2360, 330] Words: [v@Allstate:, You're, in, good, hands.] Ratio: 0.66568125
-Box: [1600, 370, 2440, 610] Words: [Information, as, of, May, 26,, 2016, Policyholder(s), MANAV, ANAND, Page, 1, of, 1] Ratio: 0.2655625
-Box: [1600, 480, 2440, 720] Words: [Policyholder(s), MANAV, ANAND, Policy, number, Page, 1, of, 1] Ratio: 0.2172625

@@ -1,3 +1,0 @@
-Box: [0, 1170, 860, 1430] Words: [Your, CRAIG, WIEMERI, Agent:, 2043, LIBERTY, AVE, BELOIT, WI, 53511, OFFICE:, 608-365-6699] Ratio: 0.32655625
-Box: [30, 70, 890, 330] Words: [n:, IIuraI, Mutual, Insurance, Company] Ratio: 0.43593125
-Box: [1420, 490, 2280, 750] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.26379375

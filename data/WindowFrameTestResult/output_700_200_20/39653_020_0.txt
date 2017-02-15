@@ -1,3 +1,0 @@
-Box: [680, 1430, 1420, 1670] Words: [Policy, Number:, 00526-70872, Loan, Number:, 329004923] Ratio: 0.3418285714285714
-Box: [740, 1200, 1480, 1440] Words: [Craig, R, Jacobs, 8., Victoria, L, Jacobs, 6627, Highway, 31, Caledonia, WI, 53402-9734] Ratio: 0.49733571428571427
-Box: [740, 1210, 1480, 1450] Words: [R, Jacobs, 8., Victoria, L, Jacobs, 6627, Highway, 31, Caledonia, WI, 53402-9734] Ratio: 0.49733571428571427

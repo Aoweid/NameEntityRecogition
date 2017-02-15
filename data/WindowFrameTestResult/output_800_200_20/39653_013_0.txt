@@ -1,4 +1,0 @@
-Box: [570, 1430, 1410, 1670] Words: [Policy, Number:, 00688-34251, Loan, Number:, 3290125386] Ratio: 0.3049
-Box: [600, 1070, 1440, 1310] Words: [Name, and, Address, of, Insured:, Joyce, A, DirschI] Ratio: 0.265575
-Box: [740, 1210, 1580, 1450] Words: [Joyce, A, DirschI, 3711, Misty, Meadow, Ln, Unit, 58, De, Pere, WI, 54115-7636] Ratio: 0.37746875
-Box: [1570, 2620, 2410, 2860] Words: [58762, Dart, Insurance, Agency, Inc, Direct, SI3, MT, 001] Ratio: 0.267575

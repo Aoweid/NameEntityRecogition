@@ -1,3 +1,0 @@
-Box: [0, 580, 760, 940] Words: [Mail, To:, JOHNSON, BANK, PO, BOX, 39653, SOLON, OH, 44139, Check, for, address, change] Ratio: 0.2340142857142857
-Box: [830, 100, 1590, 460] Words: [Account, Billing, Statement, Due, Date:, 06/20/2016] Ratio: 0.2076761904761905
-Box: [1520, 430, 2280, 790] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.20375238095238096

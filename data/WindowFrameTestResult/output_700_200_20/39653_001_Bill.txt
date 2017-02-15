@@ -1,5 +1,0 @@
-Box: [0, 550, 740, 790] Words: [Mail, To:, JOHNSON, BANK, PO, BOX, 39653, SOLON, OH, 44139] Ratio: 0.24098571428571428
-Box: [830, 210, 1570, 450] Words: [Account, Billing, Statement, Due, Date:, 06/20/2016] Ratio: 0.3115142857142857
-Box: [830, 290, 1570, 530] Words: [Billing, Statement, Due, Date:, 06/20/2016] Ratio: 0.24302142857142858
-Box: [1100, 1180, 1840, 1420] Words: [Account, DOUG, GRAY, Holder:, 1740, S, 70TH, STREET, WEST, ALLIS, WI, 53214] Ratio: 0.2972
-Box: [1530, 530, 2270, 770] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.3056285714285714

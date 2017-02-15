@@ -1,1 +1,0 @@
-Box: [1610, 40, 2370, 400] Words: [v@Allstate:, You're, in, good, hands.] Ratio: 0.5071857142857142

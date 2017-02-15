@@ -1,3 +1,0 @@
-Box: [670, 1430, 1410, 1670] Words: [Policy, Number:, 00664-64721, Loan, Number:, 3290111571] Ratio: 0.35055714285714284
-Box: [700, 1210, 1440, 1450] Words: [Yuly, Osorio, 8-, Julio, Araujo, 6238, Dominion, Dr, Madison, WI, 53718-3123] Ratio: 0.43647857142857144
-Box: [1690, 2620, 2430, 2860] Words: [River, Falls, Insurance, Ctr, LLC, Direct, Sl3, MT, 001] Ratio: 0.2671071428571429

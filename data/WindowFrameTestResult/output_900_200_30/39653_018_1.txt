@@ -1,3 +1,0 @@
-Box: [100, 610, 1060, 870] Words: [Yuly, Osorio, &, Julio, Araujo, 6238, Dominion, Dr, Madison, WI, 53718-3123] Ratio: 0.23436666666666667
-Box: [520, 1160, 1480, 1420] Words: [ATTACHED, SCHEDULED, ENDORSEMENTS, PROPERTY, PREMIUM, PREMIUM, $82.00] Ratio: 0.22624444444444444
-Box: [1090, 110, 2050, 370] Words: [Homeowners, -, Badger, 2000, Renewal, Declaration] Ratio: 0.21146666666666666

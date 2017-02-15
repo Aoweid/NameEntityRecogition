@@ -1,4 +1,0 @@
-Box: [0, 520, 740, 760] Words: [Mail, To:, ggHBhasxoglgBeglélK, ISAOA, SOLON, OH, 44139] Ratio: 0.3007714285714286
-Box: [0, 1170, 740, 1410] Words: [Your, CRAIG, WIEMERI, Agent:, 2043, LIBERTY, AVE, BELOIT, WI, 53511, OFFICE:, 608-365-6699] Ratio: 0.37320714285714285
-Box: [860, 200, 1600, 440] Words: [Billing, Statement, Due, Date:, 06/18/2016] Ratio: 0.2418357142857143
-Box: [1530, 500, 2270, 740] Words: [Rural, Mutual, Insurance, Company, PO, Box, 3040, Milwaukee, WI, 53201-3040] Ratio: 0.30147857142857143
